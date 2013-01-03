@@ -1,0 +1,10 @@
+url: "http://mayanks.me"
+pygments: true
+exclude: [bin, Gemfile, Gemfile.lock]
+markdown: kramdown
+permalink: pretty
+paginate: 10
+#lsi: true
+
+kramdown:
+  entity_output: symbolic

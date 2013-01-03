@@ -1,0 +1,66 @@
+<div id="footer-wrapper">
+
+  <div id="footer">
+
+    <div class="widget"><h3>Latest from Twitter</h3>		
+      <div id="twitter_div">
+        <ul id="twitter_update_list">
+          <li>&nbsp;</li>
+        </ul>
+        <a href="http://twitter.com/romasharma" id="twitter-link">Follow me on Twitter</a>
+      </div>
+      <script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>
+      <script type="text/javascript" src="http://api.twitter.com/1/statuses/user_timeline.json?screen_name=romasharma&include_rts=true&count=3&callback=twitterCallback2"></script>
+
+
+    </div>			
+    <div class="widget"><h3>Recent Posts</h3>		
+
+      <div class="post-block">
+
+        {% for post in site.posts limit:3 %}
+
+        <div class="post-item-side">
+
+          <img width="80" height="70" src="{{post.image}}" class="attachment-side-thumb wp-post-image" alt="{{post.title}}" title="{{post.title}}" />											
+          <h4><a href="{{post.url}}" rel="bookmark" title="{{post.title}}">{{post.title}}</a></h4>
+          <div class="post-item-meta">
+            <span>In <a href="/category/{{post.categories[0] | slugify}}/" title="View all posts in {{post.categories[0]}}" rel="category tag">{{post.categories[0]}}</a></span>
+            <span>On {{ post.date | date:"%b %d, %Y"}}</span>
+            <span class="comments"><a href="#comments" title="Comment on {{post.title}}">4 Comments</a></span>
+          </div>
+
+        </div>
+        {% endfor %}
+
+      </div>
+
+    </div>			
+
+    <div class="widget"><h3>Categories</h3>		<ul>
+        <li class="cat-item cat-item-33"><a href="http://foodpress.wpmaniac.com/category/blog/" title="View all posts filed under Blog">Blog</a>
+        </li>
+        <li class="cat-item cat-item-3"><a href="http://foodpress.wpmaniac.com/category/burgers/" title="View all posts filed under Burgers">Burgers</a>
+        </li>
+        <li class="cat-item cat-item-12"><a href="http://foodpress.wpmaniac.com/category/desserts/" title="View all posts filed under Desserts">Desserts</a>
+        </li>
+        <li class="cat-item cat-item-23"><a href="http://foodpress.wpmaniac.com/category/mexican/" title="View all posts filed under Mexican">Mexican</a>
+        </li>
+        <li class="cat-item cat-item-8"><a href="http://foodpress.wpmaniac.com/category/pizza-pasta/" title="View all posts filed under Pizza &amp; Pasta">Pizza &amp; Pasta</a>
+        </li>
+        <li class="cat-item cat-item-18"><a href="http://foodpress.wpmaniac.com/category/vegetarian-2/" title="View all posts filed under Vegetarian">Vegetarian</a>
+        </li>
+      </ul>
+    </div>			
+    <div class="widget last">
+      <h3>About Romaspace</h3>			
+      <div class="textwidget">
+        <p>Romaspace has been created primarily to share the information I had been writing in my diary since childhood. Currently it contains mostly recipes but going forward it will include other topics like Home remedies, Baby care, Good parenting, etc;</p>
+
+        <p>It would make me very happy to receive inputs from all of you as well. If you have recipes or any other information that you would like to share with the rest of us please post them in.</p> 
+      </div>
+    </div>
+  </div>
+
+</div><!-- END FOOTER-WRAPPER -->
+

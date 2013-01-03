@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<div id="wrapper">
+  <div id="main">
+
+    {% include featured_posts.html %}
+
+    <div class="post-block latest">
+
+      <h3>Latest</h3>
+
+      {% for page in paginator.posts %}
+        {% include small_post.html %}
+      {% endfor %}
+
+    </div>
+
+    <div class='pagination'><span class='current'>1</span><a href='http://foodpress.wpmaniac.com/page/2/' class='inactive' >2</a></div>
+
+
+  </div><!-- END MAIN -->
+
+  {% include sidebar.html %}
+
+</div><!-- END WRAPPER -->

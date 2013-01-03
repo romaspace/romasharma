@@ -1,0 +1,26 @@
+<div id="slider" class="featured-item">
+
+  {% for post in site.tags['Featured'] limit:4 %}
+  <a href="{{post.url}}" rel="bookmark" title="{{post.title}}"><img src="{{post.image}}" alt="{{post.title}}" title="#htmlcaption_{{forloop.index}}" rel="{{post.image}}" width="620" height="300" /></a>
+  {% endfor %}
+
+  <!--
+  <a href="http://foodpress.wpmaniac.com/desserts/raspberry-rose-sorbet/" rel="bookmark" title="Permanent Link: Raspberry-Rosé Sorbet"><img src="http://foodpress.wpmaniac.com/wp-content/uploads/2011/07/sorbet-620x300.jpg" alt="Raspberry-Rosé Sorbet" title="#htmlcaption_20" rel="http://foodpress.wpmaniac.com/wp-content/uploads/2011/07/sorbet-133x80.jpg" width="620" height="300" /></a>
+
+  <a href="http://foodpress.wpmaniac.com/pizza-pasta/vegetarian-mozzarella-pizza/" rel="bookmark" title="Permanent Link: Vegetarian mozzarella pizza"><img src="http://foodpress.wpmaniac.com/wp-content/uploads/2011/07/pizza1.jpg" alt="Vegetarian mozzarella pizza" title="#htmlcaption_11" rel="http://foodpress.wpmaniac.com/wp-content/uploads/2011/07/pizza1-133x80.jpg" width="620" height="300" /></a>
+
+  <a href="http://foodpress.wpmaniac.com/burgers/juicy-cheddar-bacon-burger/" rel="bookmark" title="Permanent Link: Juicy cheddar bacon burger"><img src="http://foodpress.wpmaniac.com/wp-content/uploads/2011/07/burger1.jpg" alt="Juicy cheddar bacon burger" title="#htmlcaption_4" rel="http://foodpress.wpmaniac.com/wp-content/uploads/2011/07/burger1-133x80.jpg" width="620" height="300" /></a>
+
+  -->
+</div>
+
+{% for post in site.tags['Featured'] limit:4 %}
+<div class="nivo-html-caption" id="htmlcaption_{{forloop.index}}">
+  <div class="featured-text">
+    <span>BY Roma, {{ page.date | date:"%b %d, %Y"}}, IN <a href="/category/desserts/" title="View all posts in {{page.categories[0]}}" rel="category tag">{{page.categories[0]}}</a></span>
+    <h2><a href="{{post.url}}" rel="bookmark" title="{{post.title}}">{{post.title}}</a></h2>
+  </div>
+</div>
+{% endfor %}
+
+

@@ -1,0 +1,15 @@
+<div class="post-item-small">
+  <a href="{{ page.url }}" rel="bookmark" title="{{ page.title }}"><img width="230" height="150" src="{{page.image}}" class="attachment-small-thumb wp-post-image" alt="{{ page.title }}" title="{{ page.title }}" /></a>
+  <h2><a href="{{page.url}}" rel="bookmark" title="{{page.title}}">{{ page.title }}</a></h2>
+
+  <div class="post-item-meta">
+    <span>In <a href="/category/{{ page.categories[0] | slugify }}/" title="View all posts in {{page.categories[0]}}" rel="category tag">{{ page.categories[0] }}</a></span>
+    <span>On {{ page.date | date:"%b %d, %Y"}}</span>
+    <span class="comments"><a href="#comments" title="Comment on {{page.title}}">4 Comments</a></span>
+  </div>
+
+  <p>{{page.content | strip_html | truncatewords:50,'' }}&#8230; <a href="{{page.url}}">Read More &raquo;</a></p>
+
+</div>
+
+

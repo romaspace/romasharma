@@ -1,0 +1,120 @@
+--- 
+permalink: /2008/02/27/glossary/
+layout: post
+title: Glossary
+image: 
+published: true
+author: Roma Sharma
+categories: 
+- Uncategorized
+tags:
+
+---
+<div align="center">
+<table border="1" cellspacing="0" rules="groups">
+<tr>
+<td align="left" height="18" width="86">Ajwain</td>
+<td align="left" width="86">Carom seeds</td>
+</tr>
+<tr>
+<td align="left" height="18">Badam</td>
+<td align="left">Almond</td>
+</tr>
+<tr>
+<td align="left" height="18">Bharta</td>
+<td align="left">Mash</td>
+</tr>
+<tr>
+<td align="left" height="18">Dhania</td>
+<td align="left">Coriander</td>
+</tr>
+<tr>
+<td align="left" height="18">Elaichi</td>
+<td align="left">Cardamom</td>
+</tr>
+<tr>
+<td align="left" height="18">Gulab Jal</td>
+<td align="left">Rose Water</td>
+</tr>
+<tr>
+<td align="left" height="18">Haldi</td>
+<td align="left">Turmeric</td>
+</tr>
+<tr>
+<td align="left" height="18">Hing</td>
+<td align="left">Asafoetida</td>
+</tr>
+<tr>
+<td align="left" height="18">Imli</td>
+<td align="left">Tamarind</td>
+</tr>
+<tr>
+<td align="left" height="18">Jeera</td>
+<td align="left">Cumin seeds</td>
+</tr>
+<tr>
+<td align="left" height="18">Kaju</td>
+<td align="left">Cashew nut</td>
+</tr>
+<tr>
+<td align="left" height="18">Kalaunji</td>
+<td align="left">Onion seeds</td>
+</tr>
+<tr>
+<td align="left" height="18">Karela</td>
+<td align="left">Bitter Gourd</td>
+</tr>
+<tr>
+<td align="left" height="18">Kasuri methi</td>
+<td align="left">Dry Fenugreek leaves</td>
+</tr>
+<tr>
+<td align="left" height="18">Khoya</td>
+<td align="left">Condensed milk</td>
+</tr>
+<tr>
+<td align="left" height="18">Kismis</td>
+<td align="left">Raisin</td>
+</tr>
+<tr>
+<td align="left" height="18">Kokum</td>
+<td align="left">Garcinia Indica</td>
+</tr>
+<tr>
+<td align="left" height="18">Lauki</td>
+<td align="left">Bottle gourd</td>
+</tr>
+<tr>
+<td align="left" height="18">Laung</td>
+<td align="left">Clove</td>
+</tr>
+<tr>
+<td align="left" height="18">Methi</td>
+<td align="left">Fenugreek</td>
+</tr>
+<tr>
+<td align="left" height="18">Mirchi</td>
+<td align="left">Chilly</td>
+</tr>
+<tr>
+<td align="left" height="18">Pista</td>
+<td align="left">Pistachios</td>
+</tr>
+<tr>
+<td align="left" height="18">Rai</td>
+<td align="left">Mustard seeds</td>
+</tr>
+<tr>
+<td align="left" height="18">Saunf</td>
+<td align="left">Fennel seeds</td>
+</tr>
+<tr>
+<td align="left" height="18">Soont</td>
+<td align="left">Dry Ginger</td>
+</tr>
+<tr>
+<td align="left" height="18">Tadka</td>
+<td align="left">Tempering</td>
+</tr>
+</table>
+</div>

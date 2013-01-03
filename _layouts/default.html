@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+ 
+<title>Roma's Space </title>
+
+<link rel="stylesheet" href="/themes/foodpress/style.css" type="text/css" />
+
+<link rel="alternate" type="application/rss+xml" title="FoodPress RSS Feed" href="http://foodpress.wpmaniac.com/feed/" />
+
+<link rel="pingback" href="http://foodpress.wpmaniac.com/xmlrpc.php" />
+
+
+<script type='text/javascript' src='/js/jquery.js?ver=1.7.2'></script>
+<script type='text/javascript' src='/themes/foodpress/js/scripts.js?ver=3.4.2'></script>
+<script type='text/javascript' src='/themes/foodpress/js/jquery.nivo.slider.pack.js?ver=3.4.2'></script>
+<link href="/themes/foodpress/styles/default.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+    jQuery('#slider').nivoSlider({
+        effect:'random', // Specify sets like: 'fold,fade,sliceDown'
+        pauseTime:4000, // How long each slide will show
+		captionOpacity:false, // Universal caption opacity
+        directionNav:false, // Next & Prev navigation
+        directionNavHide:false, // Only show on hover
+        controlNavThumbs:true, // Use thumbnails for Control Nav
+        controlNavThumbsFromRel:true, // Use image rel for thumbs
+
+    });
+});
+</script>
+
+
+<style type='text/css'>
+a { color:#f8560e; }
+#navigation-wrapper { background:#f8560e url(/themes/foodpress/images/navigation-bg.png) repeat-x;}
+#navigation li.current-menu-item a {  background:#f8560e url(/themes/foodpress/images/navi-current-bg.png) repeat-x;}
+#navigation li.current-menu-item .right-line { background:#f8560e url(/themes/foodpress/images/navi-line.png) repeat-y right}
+#navigation li a { color:#FFFFFF; font-size:15px; text-shadow: 1px 1px 1px #9e3709; }
+</style>
+
+
+
+</head>
+
+<body class="home blog layout-2cr">
+
+	<div id="header-wrapper">
+	
+		<div id="header">
+			
+			<div id="logo">
+								<a href="/"><img src="/themes/foodpress/images/logo.png" alt="FoodPress" /></a>
+							</div>
+			
+						<div id="header-banner">
+				<img src="http://foodpress.wpmaniac.com/wp-content/uploads/2011/07/header-banner.png" alt="" />			</div>
+						
+		</div>
+	
+	</div><!-- END HEADER-WRAPPER -->
+	
+  {% include navigation.html %}
+
+  {{content}}
+
+
+  {% include footer.html %}
+
+	<div id="footer-bottom-wrapper">
+	
+		<div id="footer-bottom">
+		
+			<span class="footer-left">Copyright © 2011 - Romaspace. All rights reserved</span>
+			<span class="footer-right">Web design by Mayank Sharma</span>
+		
+		</div>
+	
+	</div>
+	
+		</body>
+
+</html>
