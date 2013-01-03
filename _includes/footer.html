@@ -17,39 +17,16 @@
     <div class="widget"><h3>Recent Posts</h3>		
 
       <div class="post-block">
-
-        {% for post in site.posts limit:3 %}
-
-        <div class="post-item-side">
-
-          <img width="80" height="70" src="{{post.image}}" class="attachment-side-thumb wp-post-image" alt="{{post.title}}" title="{{post.title}}" />											
-          <h4><a href="{{post.url}}" rel="bookmark" title="{{post.title}}">{{post.title}}</a></h4>
-          <div class="post-item-meta">
-            <span>In <a href="/category/{{post.categories[0] | slugify}}/" title="View all posts in {{post.categories[0]}}" rel="category tag">{{post.categories[0]}}</a></span>
-            <span>On {{ post.date | date:"%b %d, %Y"}}</span>
-            <span class="comments"><a href="#comments" title="Comment on {{post.title}}">4 Comments</a></span>
-          </div>
-
-        </div>
-        {% endfor %}
-
+        {% include side-post.html %}
       </div>
 
     </div>			
 
     <div class="widget"><h3>Categories</h3>		<ul>
-        <li class="cat-item cat-item-33"><a href="http://foodpress.wpmaniac.com/category/blog/" title="View all posts filed under Blog">Blog</a>
+        {% for c in site.navigations %}
+        <li class="cat-item"><a href="/category/{{c|slugify}}/" title="View all posts filed under {{c}}">{{c}}</a>
         </li>
-        <li class="cat-item cat-item-3"><a href="http://foodpress.wpmaniac.com/category/burgers/" title="View all posts filed under Burgers">Burgers</a>
-        </li>
-        <li class="cat-item cat-item-12"><a href="http://foodpress.wpmaniac.com/category/desserts/" title="View all posts filed under Desserts">Desserts</a>
-        </li>
-        <li class="cat-item cat-item-23"><a href="http://foodpress.wpmaniac.com/category/mexican/" title="View all posts filed under Mexican">Mexican</a>
-        </li>
-        <li class="cat-item cat-item-8"><a href="http://foodpress.wpmaniac.com/category/pizza-pasta/" title="View all posts filed under Pizza &amp; Pasta">Pizza &amp; Pasta</a>
-        </li>
-        <li class="cat-item cat-item-18"><a href="http://foodpress.wpmaniac.com/category/vegetarian-2/" title="View all posts filed under Vegetarian">Vegetarian</a>
-        </li>
+        {% endfor %}
       </ul>
     </div>			
     <div class="widget last">

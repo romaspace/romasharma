@@ -55,6 +55,8 @@ hash["rss"]["channel"]["item"].each do |post|
         post_tags << tag
       end
     end
+    post_categories.uniq!
+    post_tags.uniq!
 
     if content =~ /img .*src="(\S*)"/
       image_path = $~[1]

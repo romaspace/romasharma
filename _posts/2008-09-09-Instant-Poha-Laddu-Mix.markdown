@@ -7,7 +7,6 @@ published: true
 author: Roma Sharma
 categories: 
 - Sweets
-- Sweets
 tags:
 - coconut sweet
 - Indian sweets

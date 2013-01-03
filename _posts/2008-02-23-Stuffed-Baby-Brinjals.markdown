@@ -11,6 +11,7 @@ tags:
 - Brinjal recipes
 - indian vegetables
 - stuffed vegetables
+- Featured
 ---
 <span style="text-decoration:underline;"><strong>Stuffed Baby Brinjals</strong></span>
 

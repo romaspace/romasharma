@@ -8,7 +8,6 @@ author: Roma Sharma
 categories: 
 - Cakes n Bakes
 - Kids Special
-- Kids Special
 tags:
 - biscuits
 - Recipes for Kids

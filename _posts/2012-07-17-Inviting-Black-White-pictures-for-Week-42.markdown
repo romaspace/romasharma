@@ -7,7 +7,6 @@ published: true
 author: Roma Sharma
 categories: 
 - photography
-- photography
 tags:
 - black&amp;white
 - event

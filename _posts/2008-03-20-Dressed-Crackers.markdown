@@ -7,7 +7,6 @@ published: true
 author: Roma Sharma
 categories: 
 - Salads
-- Salads
 tags:
 - Recipes for Kids
 - Tea-time Snacks

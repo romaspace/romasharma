@@ -12,7 +12,6 @@ tags:
 - Capsicum recipes
 - north indian gravy
 - paneer
-- Featured
 ---
 <a href="/2012/05/north_indian_thali.jpg"><img class="alignnone size-full wp-image-2710" title="north_indian_thali" src="/2012/05/north_indian_thali.jpg" alt="" width="455" height="309" /></a>
 

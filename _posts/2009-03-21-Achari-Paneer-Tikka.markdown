@@ -1,5 +1,5 @@
 --- 
-permalink: /?p=161
+permalink: /2009/03/21/achari-paneer-tikka/
 layout: post
 title: Achari Paneer Tikka
 image: 

@@ -7,7 +7,6 @@ published: true
 author: Roma Sharma
 categories: 
 - photography
-- photography
 tags:
 - Kalyan Varma
 - workshop

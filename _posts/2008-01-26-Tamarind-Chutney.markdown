@@ -7,7 +7,6 @@ published: true
 author: Roma Sharma
 categories: 
 - Chutneys
-- Chutneys
 tags:
 - dips
 - Imli chutney

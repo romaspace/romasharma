@@ -7,7 +7,6 @@ published: true
 author: Roma Sharma
 categories: 
 - travel
-- travel
 tags:
 - mysore
 ---

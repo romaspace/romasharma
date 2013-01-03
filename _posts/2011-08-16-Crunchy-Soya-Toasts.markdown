@@ -7,7 +7,6 @@ published: true
 author: Roma Sharma
 categories: 
 - Snacks
-- Snacks
 tags:
 - Indian Snacks
 - Tea-time Snacks

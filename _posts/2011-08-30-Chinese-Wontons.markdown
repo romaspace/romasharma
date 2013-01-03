@@ -7,12 +7,10 @@ published: true
 author: Roma Sharma
 categories: 
 - Snacks
-- Snacks
 tags:
 - Chinese Cuisine
 - Tea-time Snacks
 - wontons
-- Featured
 ---
 <a href="/2011/08/chinese-wontons-scaled.jpg"><img class="alignnone size-full wp-image-2407" title="chinese wontons scaled" src="/2011/08/chinese-wontons-scaled.jpg" alt="" width="344" height="455" /></a>
 

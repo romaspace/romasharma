@@ -1,4 +1,4 @@
-url: "http://mayanks.me"
+url: "http://romasharma.com"
 pygments: true
 exclude: [bin, Gemfile, Gemfile.lock]
 markdown: kramdown
@@ -6,5 +6,13 @@ permalink: pretty
 paginate: 10
 #lsi: true
 
+navigations:
+- Book Reviews
+- Photography
+- Travel
+- Festivals
+- Life's like that
+- Baby Food Recipes
+- Desserts
 kramdown:
   entity_output: symbolic

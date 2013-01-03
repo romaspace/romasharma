@@ -7,11 +7,9 @@ published: true
 author: Roma Sharma
 categories: 
 - Sweets
-- Sweets
 tags:
 - Chocolate Dessert
 - milk sweet
-- Featured
 ---
 <a href="/2010/12/choco_fudge.jpg"><img class="alignnone size-full wp-image-2331" title="choco_fudge" src="/2010/12/choco_fudge.jpg" alt="" width="303" height="455" /></a>
 

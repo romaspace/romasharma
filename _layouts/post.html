@@ -7,7 +7,7 @@ layout: default
 
     <div class="title-text">
       <h1>{{ page.title }}</h1>
-      <span>By <a href="/author/" title="Posts by Roma" rel="author">Roma</a>, {{ page.date | date:"%b %d, %Y"}}, In <a href="/category/{{page.categories[0]}}/" title="View all posts in {{page.categories[0]}}" rel="category tag">{{page.categories[0]}}</a></span>
+      <span>By <a href="/author/" title="Posts by Roma" rel="author">Roma</a>, {{ page.date | date:"%b %d, %Y"}}, In <a href="/category/{{page.categories[0] | slugify}}/" title="View all posts in {{page.categories[0]}}" rel="category tag">{{page.categories[0]}}</a></span>
     </div>
   </div>
 
@@ -15,7 +15,7 @@ layout: default
 
 <div id="crumbs-wrapper">
 
-  <div id="crumbs"><a href="/">Home</a> <span class="delimiter">&raquo;</span> <a href="/category/{{page.categories[0]}}/" title="View all posts in {{page.categories[0]}}">{{page.categories[0]}}</a> <span class="delimiter">&raquo;</span> <span class="current">{{page.title}}</span></div>
+  <div id="crumbs"><a href="/">Home</a> <span class="delimiter">&raquo;</span> <a href="/category/{{page.categories[0] | slugify}}/" title="View all posts in {{page.categories[0]}}">{{page.categories[0]}}</a> <span class="delimiter">&raquo;</span> <span class="current">{{page.title}}</span></div>
 </div>
 
 <div id="wrapper">
@@ -26,67 +26,27 @@ layout: default
       {{content}}
       <div class="post-tags">
         {% for tag in page.tags %}
-        <a href="/tag/{{tag}}/" rel="tag">{{tag}}</a>
+        <a href="/tag/{{tag|slugify}}/" rel="tag">{{tag}}</a>
         {% endfor %}
       </div>
 
     </div>
 
-    <div class="share-box">
+    {% include share_buttons.html %}
 
-      <div class="share-widget">
-        <a href="http://twitter.com/share" class="twitter-share-button" data-text='Rigatoni with sausage and tomatoes' data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-      </div>
-
-      <div class="share-widget">
-        <iframe src="http://www.facebook.com/plugins/like.php?app_id=149766198425277&amp;href=http%3A%2F%2Ffoodpress.wpmaniac.com%2Fpizza-pasta%2Frigatoni-with-sausage-and-tomatoes%2F&amp;send=false&amp;layout=box_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=90" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:50px; height:60px;" allowTransparency="true"></iframe>
-      </div>
-
-      <div class="share-widget">
-        <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-        <g:plusone size="tall"></g:plusone>
-      </div>
-
-      <div class="share-widget">
-        <a href="mailto:?subject=Rigatoni with sausage and tomatoes&amp;body=http://foodpress.wpmaniac.com/pizza-pasta/rigatoni-with-sausage-and-tomatoes/"><img src='http://foodpress.wpmaniac.com/wp-content/themes/foodpress/images/email-share.png' alt='Email Share' /></a>
-      </div>
-
-
+    <div class="pagination">
+      {% include newer_and_older_posts.html %}
     </div>
 
     <div class="post-block">
-
-      <h3>About the Author: <a href="/author/" title="Posts by Roma" rel="author">Roma Sharma</a></h3>
-
-      <img alt='' src='http://1.gravatar.com/avatar/a5aec724ef61d1350db88ed058c124b6?s=100&r=pg&d=mm' class='avatar avatar-75 photo' height='75' width='75' />
-
-      <p class="about-author-text">I am a software engineer by qualification. However, after having two kids I turned a homemaker. I love cooking, blogging and photography. I have written a book on baby food recipes which is available on Amazon Kindle Store. In my free time, I love to bake cakes. You can follow me on <a href="http://twitter.com/romasharma">Twitter</a> and <a href="http://facebook.com/romaspace/">Facebook</a>.</p>
-
+      {% include bio_block.html %}
     </div>
 
     <div class="post-block">
-
-      <h3>Related Posts</h3>
-
-      {% for item in site.related_posts limit:3 %}
-      <div class="post-item-grid">
-
-        <a href="{{item.url}}" rel="bookmark" title="{{item.url}}"><img width="186" height="190" src="{{item.image}}" class="attachment-grid-thumb wp-post-image" alt="{{item.title}}" title="{{item.title}}" /></a>
-
-        <h2><a href="{{item.url}}" rel="bookmark" title="{{item.title}}">{{item.title}}</a></h2>
-
-        <div class="post-item-meta">
-          <span>In <a href="/category/{{item.categories[0]}}/" title="View all posts in {{item.categories[0]}}" rel="category tag">{{item.categories[0]}}</a></span>
-          <span>On {{ page.date | date:"%b %d, %Y"}}</span>
-        </div>
-
-      </div>
-      {% endfor %}
-
+      {% include related_posts.html %}
     </div>
 
     <div class="post-block">
-
 
       <!-- You can start editing here. -->
 
@@ -98,13 +58,11 @@ layout: default
 
           <p class="cancel-comment-reply"><a rel="nofollow" id="cancel-comment-reply-link" href="/pizza-pasta/rigatoni-with-sausage-and-tomatoes/#respond" style="display:none;">Click here to cancel reply.</a></p>
 
-          <p>You must be <a href="http://foodpress.wpmaniac.com/wp-login.php?redirect_to=http%3A%2F%2Ffoodpress.wpmaniac.com%2Fpizza-pasta%2Frigatoni-with-sausage-and-tomatoes%2F">logged in</a> to post a comment.</p></div>
+          <p>You must be <a href="#">logged in</a> to post a comment.</p></div>
 
       </div>
 
-
     </div>
-
 
   </div><!-- END MAIN -->
 

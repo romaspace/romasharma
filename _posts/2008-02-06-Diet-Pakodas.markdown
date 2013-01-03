@@ -7,7 +7,6 @@ published: true
 author: Roma Sharma
 categories: 
 - Snacks
-- Snacks
 tags:
 - Diet food
 - Healthy Breakfast recipes

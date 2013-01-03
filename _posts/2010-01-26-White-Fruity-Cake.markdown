@@ -7,7 +7,6 @@ published: true
 author: Roma Sharma
 categories: 
 - Cakes n Bakes
-- Cakes n Bakes
 tags:
 - banana
 - cake

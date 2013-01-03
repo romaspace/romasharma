@@ -1,13 +1,11 @@
 <div> 
 {% if page.next.url %} 
-  NEWER &raquo;<br/>
-  <a href="{{page.next.url}}" title="Next Post: {{page.next.title}}">{{page.next.title}}</a> 
+  <a href="{{page.next.url}}" style="float:right" title="Next Post: {{page.next.title}}">{{page.next.title}} &raquo;</a> 
 {% endif %} 
 </div>   
 
 <div> 
 {% if page.previous.url %} 
-  &laquo; OLDER<br/>
-  <a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">{{page.previous.title}}</a> 
+  <a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">&laquo; {{page.previous.title}}</a> 
 {% endif %} 
 </div> 

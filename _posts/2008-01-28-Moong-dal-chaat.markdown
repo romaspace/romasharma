@@ -7,7 +7,6 @@ published: true
 author: Roma Sharma
 categories: 
 - Chaat
-- Chaat
 tags:
 - Healthy Breakfast recipes
 - Indian Snacks

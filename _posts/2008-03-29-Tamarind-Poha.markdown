@@ -7,7 +7,6 @@ published: true
 author: Roma Sharma
 categories: 
 - Snacks
-- Snacks
 tags:
 - poha recipes
 - Tamarind poha

@@ -1,7 +1,18 @@
-<div class="related_posts">
-	<ul class="posts">
-		{% for post in site.related_posts limit:5 %}
-			<li><a href="{{ post.url }}" onclick="_gaq.push(['_trackEvent', 'related post', 'Clicked {{ post.title }}', 'From {{ page.title }}']);">{{ post.title }}</a></li>
-		{% endfor %}
-	</ul>
+<h3>Related Posts</h3>
+
+{% for item in site.related_posts limit:3 %}
+<div class="post-item-grid">
+
+  <a href="{{item.url}}" rel="bookmark" title="{{item.url}}"><img width="186" height="190" src="{{item.image}}" class="attachment-grid-thumb wp-post-image" alt="{{item.title}}" title="{{item.title}}" /></a>
+
+  <h2><a href="{{item.url}}" rel="bookmark" title="{{item.title}}">{{item.title}}</a></h2>
+
+  <div class="post-item-meta">
+    <span>In <a href="/category/{{item.categories[0]}}/" title="View all posts in {{item.categories[0]}}" rel="category tag">{{item.categories[0]}}</a></span>
+    <span>On {{ page.date | date:"%b %d, %Y"}}</span>
+  </div>
+
 </div>
+{% endfor %}
+
+

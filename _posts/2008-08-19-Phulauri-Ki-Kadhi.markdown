@@ -7,7 +7,6 @@ published: true
 author: Roma Sharma
 categories: 
 - Curries
-- Curries
 tags:
 - Indian curry
 ---

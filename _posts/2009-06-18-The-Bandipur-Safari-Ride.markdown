@@ -8,7 +8,6 @@ author: Roma Sharma
 categories: 
 - photography
 - travel
-- travel
 tags:
 - Bandipur
 - Safari

@@ -7,10 +7,10 @@ published: true
 author: Roma Sharma
 categories: 
 - Cakes n Bakes
-- Cakes n Bakes
 tags:
 - cake
 - Cakes
+- Featured
 ---
 <a href="/2010/12/cake_good_scaled.jpg"><img class="alignnone size-full wp-image-2353" title="cake_good_scaled" src="/2010/12/cake_good_scaled.jpg" alt="" width="303" height="455" /></a>
 

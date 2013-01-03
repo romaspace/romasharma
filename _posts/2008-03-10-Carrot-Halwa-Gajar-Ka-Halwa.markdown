@@ -7,7 +7,6 @@ published: true
 author: Roma Sharma
 categories: 
 - Desserts
-- Desserts
 tags:
 - carrot halwa
 - halwa

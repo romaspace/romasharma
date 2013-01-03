@@ -16,7 +16,16 @@ layout: default
 
     </div>
 
-    <div class='pagination'><span class='current'>1</span><a href='http://foodpress.wpmaniac.com/page/2/' class='inactive' >2</a></div>
+    <div class='pagination'>
+      {% if paginator.page == 2 %}
+      <a href='/' class='inactive' >&laquo;Prev</a>
+      {% elsif paginator.page > 1 %}
+      <a href='/page{{paginator.page | minus:1 }}/' class='inactive' >&laquo;Prev</a>
+      {% endif %}
+      {% if paginator.page < paginator.total_pages %}
+      <a href='/page{{paginator.page | plus:1}}/' class='inactive' style='float:right'>Next&raquo;</a>
+      {% endif %}
+    </div>
 
 
   </div><!-- END MAIN -->

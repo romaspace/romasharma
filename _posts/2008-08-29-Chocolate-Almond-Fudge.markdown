@@ -7,7 +7,6 @@ published: true
 author: Roma Sharma
 categories: 
 - Kids Special
-- Kids Special
 - Sweets
 tags:
 - Almond sweets

@@ -7,7 +7,6 @@ published: true
 author: Roma Sharma
 categories: 
 - Dals
-- Dals
 tags:
 - Indian lentils
 - Lentils
