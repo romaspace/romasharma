@@ -4,17 +4,31 @@ layout: default
 <div id="wrapper">
   <div id="main">
 
-    {% include featured_posts.html %}
+    {% if paginator.page == 1 %}
+      <div class="post-block latest">
+        <h3>Latest</h3>
+        {% for page in paginator.posts limit:3 %}
+          {% include small_post.html %}
+        {% endfor %}
+      </div>
 
-    <div class="post-block latest">
+      {% include featured_posts.html %}
 
-      <h3>Latest</h3>
+      <div class="post-block latest">
+        {% for page in paginator.posts offset:3 %}
+          {% include small_post.html %}
+        {% endfor %}
+      </div>
 
-      {% for page in paginator.posts %}
-        {% include small_post.html %}
-      {% endfor %}
+    {% else %}
 
-    </div>
+      <div class="post-block latest">
+        {% for page in paginator.posts %}
+          {% include small_post.html %}
+        {% endfor %}
+      </div>
+
+    {% endif %}
 
     <div class='pagination'>
       {% if paginator.page == 2 %}
