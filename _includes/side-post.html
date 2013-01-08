@@ -1,7 +1,7 @@
 {% for post in site.posts limit:3 %}
 <div class="post-item-side">
 
-  <img width="80" height="70" src="{{post.image}}" class="attachment-side-thumb wp-post-image" alt="{{post.title}}" title="{{post.title}}" />											
+  <img width="80" height="80" src="{{post.image_thumbnail}}" class="attachment-side-thumb wp-post-image" alt="{{post.title}}" title="{{post.title}}" />
   <h4><a href="{{post.url}}" rel="bookmark" title="{{post.title}}">{{post.title}}</a></h4>
   <div class="post-item-meta">
     <span>In <a href="/category/{{post.categories[0] | slugify}}/" title="View all posts in {{post.categories[0]}}" rel="category tag">{{post.categories[0]}}</a></span>
