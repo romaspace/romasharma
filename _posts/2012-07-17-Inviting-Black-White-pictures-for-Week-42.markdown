@@ -3,6 +3,8 @@ permalink: /2012/07/17/inviting-black-white-pictures-for-week-42/
 layout: post
 title: Inviting Black & White pictures for Week #42
 image: /2012/07/egg_vendor.jpg
+image_230x150: /2012/07/egg_vendor_230x150.jpg
+image_thumbnail: /2012/07/egg_vendor_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

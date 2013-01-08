@@ -3,6 +3,8 @@ permalink: /2008/02/03/moong-moth-salad/
 layout: post
 title: Moong Moth Salad
 image: /2008/02/raina-005.jpg
+image_230x150: /2008/02/raina-005_230x150.jpg
+image_thumbnail: /2008/02/raina-005_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

@@ -3,6 +3,8 @@ permalink: /2008/06/13/chocolate-cake-for-birthday-boy/
 layout: post
 title: Chocolate Cake for Birthday Boy
 image: /2008/06/birthday_cake.jpg
+image_230x150: /2008/06/birthday_cake_230x150.jpg
+image_thumbnail: /2008/06/birthday_cake_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

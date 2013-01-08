@@ -3,6 +3,8 @@ permalink: /2009/11/29/chocolate-pudding-2/
 layout: post
 title: Chocolate Pudding
 image: /2009/11/chocolate_pudding_bright.jpg
+image_230x150: /2009/11/chocolate_pudding_bright_230x150.jpg
+image_thumbnail: /2009/11/chocolate_pudding_bright_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

@@ -3,6 +3,8 @@ permalink: /2008/02/06/alu-methi-kadhi/
 layout: post
 title: Alu Methi Kadhi
 image: /2008/02/alu_methi_kadhi1.jpg
+image_230x150: /2008/02/alu_methi_kadhi1_230x150.jpg
+image_thumbnail: /2008/02/alu_methi_kadhi1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

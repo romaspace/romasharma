@@ -3,6 +3,8 @@ permalink: /2008/08/07/long-live-the-shelf/
 layout: post
 title: Long Live the Shelf!
 image: /2008/08/jars_3.jpg?w=184
+image_230x150: /2008/08/jars_3_230x150.jpg
+image_thumbnail: /2008/08/jars_3_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

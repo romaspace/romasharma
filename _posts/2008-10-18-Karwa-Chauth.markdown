@@ -3,6 +3,8 @@ permalink: /2008/10/18/karwa-chauth/
 layout: post
 title: Karwa Chauth
 image: /2008/10/gulgule.jpg?w=300&amp;h=260
+image_230x150: /2008/10/gulgule_230x150.jpg
+image_thumbnail: /2008/10/gulgule_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

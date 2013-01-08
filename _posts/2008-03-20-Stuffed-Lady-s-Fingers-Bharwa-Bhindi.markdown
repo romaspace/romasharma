@@ -3,6 +3,8 @@ permalink: /2008/03/20/stuffed-ladys-fingers-bharwa-bhindi/
 layout: post
 title: Stuffed Lady's Fingers (Bharwa Bhindi)
 image: /2008/04/stuffed_bhindi1.jpg
+image_230x150: /2008/04/stuffed_bhindi1_230x150.jpg
+image_thumbnail: /2008/04/stuffed_bhindi1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

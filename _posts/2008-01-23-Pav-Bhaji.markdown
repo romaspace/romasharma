@@ -3,6 +3,8 @@ permalink: /2008/01/23/pav-bhaji/
 layout: post
 title: Pav Bhaji
 image: /2008/01/pav_bhaji_1.jpg
+image_230x150: /2008/01/pav_bhaji_1_230x150.jpg
+image_thumbnail: /2008/01/pav_bhaji_1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

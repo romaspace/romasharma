@@ -3,6 +3,8 @@ permalink: /2008/08/10/vegetarian-seekh-kabab/
 layout: post
 title: Vegetarian Seekh Kabab
 image: /2008/08/veg_seekh_kabab_1.jpg
+image_230x150: /2008/08/veg_seekh_kabab_1_230x150.jpg
+image_thumbnail: /2008/08/veg_seekh_kabab_1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

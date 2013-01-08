@@ -3,6 +3,8 @@ permalink: /2009/12/27/fruit-n-nut-cake/
 layout: post
 title: Fruit n Nut Cake
 image: /2009/12/fruitnnutcake.jpg
+image_230x150: /2009/12/fruitnnutcake_230x150.jpg
+image_thumbnail: /2009/12/fruitnnutcake_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

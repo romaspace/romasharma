@@ -3,6 +3,8 @@ permalink: /2012/11/18/sofa-upholstery-change/
 layout: post
 title: Sofa Upholstery Change
 image: /2012/11/upholstery_change.jpg
+image_230x150: /2012/11/upholstery_change_230x150.jpg
+image_thumbnail: /2012/11/upholstery_change_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

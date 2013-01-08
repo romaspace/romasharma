@@ -3,6 +3,8 @@ permalink: /2011/08/30/chinese-wontons/
 layout: post
 title: Chinese Wontons
 image: /2011/08/chinese-wontons-scaled.jpg
+image_230x150: /2011/08/chinese-wontons-scaled_230x150.jpg
+image_thumbnail: /2011/08/chinese-wontons-scaled_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

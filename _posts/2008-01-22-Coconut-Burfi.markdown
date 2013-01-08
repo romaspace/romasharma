@@ -3,6 +3,8 @@ permalink: /2008/01/22/coconut-burfi/
 layout: post
 title: Coconut Burfi
 image: /2008/01/coconut_burfi_1.jpg
+image_230x150: /2008/01/coconut_burfi_1_230x150.jpg
+image_thumbnail: /2008/01/coconut_burfi_1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

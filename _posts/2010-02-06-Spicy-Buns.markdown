@@ -3,6 +3,8 @@ permalink: /2010/02/06/spicy-buns/
 layout: post
 title: Spicy Buns
 image: /2010/02/spicy_buns.jpg
+image_230x150: /2010/02/spicy_buns_230x150.jpg
+image_thumbnail: /2010/02/spicy_buns_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

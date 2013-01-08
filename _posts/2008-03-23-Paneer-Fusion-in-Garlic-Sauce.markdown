@@ -3,6 +3,8 @@ permalink: /2008/03/23/paneer-fusion-in-garlic-sauce/
 layout: post
 title: Paneer Fusion in Garlic Sauce
 image: /2008/03/paneer_garlic_jfi.jpg
+image_230x150: /2008/03/paneer_garlic_jfi_230x150.jpg
+image_thumbnail: /2008/03/paneer_garlic_jfi_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

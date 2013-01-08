@@ -3,6 +3,8 @@ permalink: /2008/05/13/toastizza/
 layout: post
 title: Toastizza
 image: /2008/05/tostizza.jpg
+image_230x150: /2008/05/tostizza_230x150.jpg
+image_thumbnail: /2008/05/tostizza_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

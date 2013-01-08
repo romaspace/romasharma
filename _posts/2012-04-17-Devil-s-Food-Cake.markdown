@@ -3,6 +3,8 @@ permalink: /2012/04/17/devils-food-cake/
 layout: post
 title: Devil's Food Cake
 image: /2012/04/devilsfoodcake1.jpg
+image_230x150: /2012/04/devilsfoodcake1_230x150.jpg
+image_thumbnail: /2012/04/devilsfoodcake1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

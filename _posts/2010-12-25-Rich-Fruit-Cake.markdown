@@ -3,6 +3,8 @@ permalink: /2010/12/25/rich-fruit-cake/
 layout: post
 title: Rich Fruit Cake
 image: /2010/12/cake_good_scaled.jpg
+image_230x150: /2010/12/cake_good_scaled_230x150.jpg
+image_thumbnail: /2010/12/cake_good_scaled_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 
@@ -10,7 +12,6 @@ categories:
 tags:
 - cake
 - Cakes
-- Featured
 ---
 <a href="/2010/12/cake_good_scaled.jpg"><img class="alignnone size-full wp-image-2353" title="cake_good_scaled" src="/2010/12/cake_good_scaled.jpg" alt="" width="303" height="455" /></a>
 

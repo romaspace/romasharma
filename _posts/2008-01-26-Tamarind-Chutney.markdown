@@ -3,6 +3,8 @@ permalink: /2008/01/26/tamarind-chutney/
 layout: post
 title: Tamarind Chutney
 image: /2008/01/imli_chutney.jpg
+image_230x150: /2008/01/imli_chutney_230x150.jpg
+image_thumbnail: /2008/01/imli_chutney_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

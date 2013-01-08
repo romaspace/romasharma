@@ -3,6 +3,8 @@ permalink: /2008/05/21/almond-bread/
 layout: post
 title: Almond Bread
 image: /2008/05/almond_bread.jpg
+image_230x150: /2008/05/almond_bread_230x150.jpg
+image_thumbnail: /2008/05/almond_bread_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

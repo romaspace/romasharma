@@ -3,6 +3,8 @@ permalink: /2008/01/29/chinese-salad/
 layout: post
 title: Chinese Salad
 image: /2008/06/chinese_salad.jpg
+image_230x150: /2008/06/chinese_salad_230x150.jpg
+image_thumbnail: /2008/06/chinese_salad_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

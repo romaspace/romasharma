@@ -3,6 +3,8 @@ permalink: /2012/06/08/easy-bake-brownies/
 layout: post
 title: Easy Bake Brownies
 image: /2012/06/choco_brownies.jpg
+image_230x150: /2012/06/choco_brownies_230x150.jpg
+image_thumbnail: /2012/06/choco_brownies_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 
@@ -10,7 +12,6 @@ categories:
 tags:
 - Cakes
 - Chocolate Dessert
-- Featured
 ---
 <a href="/2012/06/choco_brownies.jpg"><img class="alignnone size-full wp-image-2735" title="choco_brownies" src="/2012/06/choco_brownies.jpg" alt="" width="455" height="310" /></a>
 

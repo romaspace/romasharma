@@ -3,6 +3,8 @@ permalink: /2009/11/08/egg-curry/
 layout: post
 title: Egg Curry
 image: /2009/11/eggcurry11.jpg
+image_230x150: /2009/11/eggcurry11_230x150.jpg
+image_thumbnail: /2009/11/eggcurry11_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

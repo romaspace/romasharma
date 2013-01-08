@@ -3,6 +3,8 @@ permalink: /2012/05/29/north-indian-thali/
 layout: post
 title: North Indian Thali
 image: /2012/05/north_indian_thali.jpg
+image_230x150: /2012/05/north_indian_thali_230x150.jpg
+image_thumbnail: /2012/05/north_indian_thali_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

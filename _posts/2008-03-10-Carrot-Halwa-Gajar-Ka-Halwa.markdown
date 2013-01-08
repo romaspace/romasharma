@@ -3,6 +3,8 @@ permalink: /2008/03/10/carrot-halwa-gajar-ka-halwa/
 layout: post
 title: Carrot Halwa (Gajar Ka Halwa)
 image: /2008/03/gajarhalwa.jpg
+image_230x150: /2008/03/gajarhalwa_230x150.jpg
+image_thumbnail: /2008/03/gajarhalwa_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

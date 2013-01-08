@@ -3,6 +3,8 @@ permalink: /2009/01/29/pineapple-gojju/
 layout: post
 title: Pineapple Gojju
 image: /2009/01/pineapple_gojju1.jpg
+image_230x150: /2009/01/pineapple_gojju1_230x150.jpg
+image_thumbnail: /2009/01/pineapple_gojju1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

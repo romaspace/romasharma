@@ -3,6 +3,8 @@ permalink: /2012/05/09/a-jazz-joins-us/
 layout: post
 title: A jazz joins us
 image: /2012/05/jazz.jpg
+image_230x150: /2012/05/jazz_230x150.jpg
+image_thumbnail: /2012/05/jazz_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

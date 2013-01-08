@@ -3,6 +3,8 @@ permalink: /2012/08/22/beautiful-backwaters-of-ashtamudi/
 layout: post
 title: Beautiful Backwaters of Ashtamudi
 image: /2012/08/backwaters.jpg
+image_230x150: /2012/08/backwaters_230x150.jpg
+image_thumbnail: /2012/08/backwaters_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

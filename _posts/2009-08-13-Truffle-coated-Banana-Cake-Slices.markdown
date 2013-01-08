@@ -3,6 +3,8 @@ permalink: /2009/08/13/truffle-coated-banana-cake-slices/
 layout: post
 title: Truffle coated Banana Cake Slices
 image: /2009/08/bananacaketruffleicing2.jpg
+image_230x150: /2009/08/bananacaketruffleicing2_230x150.jpg
+image_thumbnail: /2009/08/bananacaketruffleicing2_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

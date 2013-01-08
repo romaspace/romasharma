@@ -3,6 +3,8 @@ permalink: /2008/11/24/brownie-bikkies/
 layout: post
 title: Brownie Bikkies
 image: /2008/11/browniebikkies.jpg
+image_230x150: /2008/11/browniebikkies_230x150.jpg
+image_thumbnail: /2008/11/browniebikkies_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

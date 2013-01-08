@@ -3,6 +3,8 @@ permalink: /2008/11/10/homemade-pizza/
 layout: post
 title: Homemade Pizza
 image: /2008/11/pizza.jpg
+image_230x150: /2008/11/pizza_230x150.jpg
+image_thumbnail: /2008/11/pizza_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

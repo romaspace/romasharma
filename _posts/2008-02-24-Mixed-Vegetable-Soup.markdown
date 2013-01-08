@@ -3,6 +3,8 @@ permalink: /2008/02/24/mixed-vegetable-soup/
 layout: post
 title: Mixed Vegetable Soup
 image: /2008/04/vegetable_soup.jpg
+image_230x150: /2008/04/vegetable_soup_230x150.jpg
+image_thumbnail: /2008/04/vegetable_soup_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

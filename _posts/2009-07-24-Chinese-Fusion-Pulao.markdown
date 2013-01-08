@@ -3,6 +3,8 @@ permalink: /2009/07/24/chinese-fusion-pulao/
 layout: post
 title: Chinese Fusion Pulao
 image: /2009/07/chinese_fusion_pulao_11.jpg
+image_230x150: /2009/07/chinese_fusion_pulao_11_230x150.jpg
+image_thumbnail: /2009/07/chinese_fusion_pulao_11_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

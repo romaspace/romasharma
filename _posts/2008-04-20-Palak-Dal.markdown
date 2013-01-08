@@ -3,6 +3,8 @@ permalink: /2008/04/20/palak-dal/
 layout: post
 title: Palak Dal
 image: /2008/04/palak_dal1.jpg
+image_230x150: /2008/04/palak_dal1_230x150.jpg
+image_thumbnail: /2008/04/palak_dal1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

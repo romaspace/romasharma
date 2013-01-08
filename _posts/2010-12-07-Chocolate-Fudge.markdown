@@ -3,6 +3,8 @@ permalink: /2010/12/07/chocolate-fudge/
 layout: post
 title: Chocolate Fudge
 image: /2010/12/choco_fudge.jpg
+image_230x150: /2010/12/choco_fudge_230x150.jpg
+image_thumbnail: /2010/12/choco_fudge_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

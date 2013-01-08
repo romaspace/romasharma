@@ -3,6 +3,8 @@ permalink: /2012/06/16/my-babys-favorite-food-round-up/
 layout: post
 title: My Baby's Favorite Food - Round up!
 image: /2012/06/event_collage.jpg
+image_230x150: /2012/06/event_collage_230x150.jpg
+image_thumbnail: /2012/06/event_collage_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

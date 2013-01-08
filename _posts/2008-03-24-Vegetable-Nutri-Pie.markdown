@@ -3,6 +3,8 @@ permalink: /2008/03/24/vegetable-nutri-pie/
 layout: post
 title: Vegetable Nutri Pie
 image: /2008/03/nutripie_withflower.jpg
+image_230x150: /2008/03/nutripie_withflower_230x150.jpg
+image_thumbnail: /2008/03/nutripie_withflower_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

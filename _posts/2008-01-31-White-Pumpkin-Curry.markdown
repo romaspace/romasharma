@@ -3,6 +3,8 @@ permalink: /2008/01/31/white-pumpkin-curry/
 layout: post
 title: White Pumpkin Curry
 image: /2008/01/pc190017.jpg?w=300&h=224
+image_230x150: /2008/01/pc190017_230x150.jpg
+image_thumbnail: /2008/01/pc190017_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

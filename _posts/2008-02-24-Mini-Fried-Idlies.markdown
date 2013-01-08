@@ -3,6 +3,8 @@ permalink: /2008/02/24/mini-fried-idlies/
 layout: post
 title: Mini Fried Idlies
 image: /2008/02/khuzi_2.jpg
+image_230x150: /2008/02/khuzi_2_230x150.jpg
+image_thumbnail: /2008/02/khuzi_2_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

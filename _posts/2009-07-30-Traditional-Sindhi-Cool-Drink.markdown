@@ -3,6 +3,8 @@ permalink: /2009/07/30/traditional-sindhi-cool-drink/
 layout: post
 title: Traditional Sindhi Cool Drink
 image: /2009/07/sindhicooldrink.jpg
+image_230x150: /2009/07/sindhicooldrink_230x150.jpg
+image_thumbnail: /2009/07/sindhicooldrink_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

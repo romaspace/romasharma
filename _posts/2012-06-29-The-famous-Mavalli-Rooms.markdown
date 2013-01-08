@@ -3,6 +3,8 @@ permalink: /2012/06/29/the-famous-mavalli-rooms/
 layout: post
 title: The famous Mavalli Rooms
 image: /2012/06/mtr_3_scaled1.jpg
+image_230x150: /2012/06/mtr_3_scaled1_230x150.jpg
+image_thumbnail: /2012/06/mtr_3_scaled1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

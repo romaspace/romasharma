@@ -3,6 +3,8 @@ permalink: /2009/01/12/chemistry-in-bread-making/
 layout: post
 title: Chemistry in Bread Making
 image: /2009/01/image-thumb.png
+image_230x150: /2009/01/image-thumb_230x150.png
+image_thumbnail: /2009/01/image-thumb_200x200.png
 published: true
 author: Roma Sharma
 categories: 

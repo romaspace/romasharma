@@ -3,6 +3,8 @@ permalink: /2012/07/01/when-luck-doesnt-dip/
 layout: post
 title: When luck doesn't dip
 image: /2012/07/lucky_dip.jpg
+image_230x150: /2012/07/lucky_dip_230x150.jpg
+image_thumbnail: /2012/07/lucky_dip_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

@@ -3,6 +3,8 @@ permalink: /2008/03/30/baked-vegetables/
 layout: post
 title: Baked Vegetables
 image: /2008/03/baked_vegetables.jpg
+image_230x150: /2008/03/baked_vegetables_230x150.jpg
+image_thumbnail: /2008/03/baked_vegetables_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

@@ -3,6 +3,8 @@ permalink: /2008/09/09/instant-poha-laddu-mix/
 layout: post
 title: Instant Poha Laddu Mix
 image: /2008/09/instant_poha_laddu_mix.jpg
+image_230x150: /2008/09/instant_poha_laddu_mix_230x150.jpg
+image_thumbnail: /2008/09/instant_poha_laddu_mix_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

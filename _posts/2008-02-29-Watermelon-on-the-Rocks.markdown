@@ -3,6 +3,8 @@ permalink: /2008/02/29/chill-watermelon-mocktail/
 layout: post
 title: Watermelon on the Rocks
 image: /2008/02/watermelon1.jpg
+image_230x150: /2008/02/watermelon1_230x150.jpg
+image_thumbnail: /2008/02/watermelon1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

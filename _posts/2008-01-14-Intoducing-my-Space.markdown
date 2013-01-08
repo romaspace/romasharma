@@ -2,7 +2,9 @@
 permalink: /2008/01/14/intoducing-my-space/
 layout: post
 title: Intoducing my Space !
-image: 
+image: /images/default.jpg
+image_230x150: /images/default_230x150.jpg
+image_thumbnail: /images/default_thumbnail.jpg
 published: true
 author: Roma Sharma
 categories: 

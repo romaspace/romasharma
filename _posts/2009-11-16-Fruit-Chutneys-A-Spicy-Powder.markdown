@@ -3,6 +3,8 @@ permalink: /2009/11/16/chutneys/
 layout: post
 title: Fruit Chutneys & A Spicy Powder
 image: /2009/11/gingerpineapple.jpg
+image_230x150: /2009/11/gingerpineapple_230x150.jpg
+image_thumbnail: /2009/11/gingerpineapple_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

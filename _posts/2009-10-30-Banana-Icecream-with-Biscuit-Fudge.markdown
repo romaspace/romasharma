@@ -3,6 +3,8 @@ permalink: /2009/10/30/banana-icecream-with-biscuit-fudge/
 layout: post
 title: Banana Icecream with Biscuit Fudge
 image: /2009/10/icecream.jpg
+image_230x150: /2009/10/icecream_230x150.jpg
+image_thumbnail: /2009/10/icecream_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

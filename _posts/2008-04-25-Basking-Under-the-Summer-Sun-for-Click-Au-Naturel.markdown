@@ -3,6 +3,8 @@ permalink: /2008/04/25/basking-under-the-summer-sun-for-click-au-naturel/
 layout: post
 title: Basking Under the Summer Sun (for Click Au Naturel)
 image: /2008/04/wheat_plant_13.jpg
+image_230x150: /2008/04/wheat_plant_13_230x150.jpg
+image_thumbnail: /2008/04/wheat_plant_13_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

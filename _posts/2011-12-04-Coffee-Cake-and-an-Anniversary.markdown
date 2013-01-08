@@ -3,6 +3,8 @@ permalink: /2011/12/04/coffee-cake-and-an-anniversary/
 layout: post
 title: Coffee Cake and an Anniversary
 image: /2011/12/coffee-cake1.jpg
+image_230x150: /2011/12/coffee-cake1_230x150.jpg
+image_thumbnail: /2011/12/coffee-cake1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 
@@ -11,7 +13,6 @@ tags:
 - cake
 - Cakes
 - coffee dessert
-- Featured
 ---
 <a href="/2011/12/coffee-cake1.jpg"><img class="alignnone size-full wp-image-2460" title="coffee cake" src="/2011/12/coffee-cake1.jpg" alt="" width="455" height="302" /></a>
 

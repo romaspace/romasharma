@@ -2,7 +2,9 @@
 permalink: /2012/07/25/black-white-wednesday-week-42-round-up/
 layout: post
 title: Black & White Wednesday Week #42 Round-up!
-image: http://4.bp.blogspot.com/-hYDWYymzc2c/UA6OGNaU0BI/AAAAAAAAGW4/Cn1qVgx0pxA/s1600/Abstract+500.JPG
+image: /images/Abstract+500.JPG
+image_230x150: /images/Abstract+500_230x150.JPG
+image_thumbnail: /images/Abstract+500_200x200.JPG
 published: true
 author: Roma Sharma
 categories: 
@@ -12,7 +14,7 @@ tags:
 ---
 Thank you all for enthusiastically participating in Black &amp; White Wednesday Week 42. The gallery presents a wide spectrum of images right from Wines to <em>kulfis</em>. Being a great fan of B&amp;W images I really enjoyed putting this collection together. The BWW event for week 43 will be hosted by Simona of <a href="http://briciole.typepad.com/">Briciole</a>.
 
-<div class='post-image'><a href="http://www.mydiversekitchen.com/2012/07/shades-of-black-white-and-colours-in.html"><img title="Folks – An Abstract , by Aparna of My Diverse Kitchen" src="http://4.bp.blogspot.com/-hYDWYymzc2c/UA6OGNaU0BI/AAAAAAAAGW4/Cn1qVgx0pxA/s1600/Abstract+500.JPG" alt="Folks – An Abstract , by Aparna of My Diverse Kitchen" width="500" height="334" /></a> Folks – An Abstract , <em>by Aparna of My Diverse Kitchen<!--more--></em></div>
+<div class='post-image'><a href="http://www.mydiversekitchen.com/2012/07/shades-of-black-white-and-colours-in.html"><img title="Folks – An Abstract , by Aparna of My Diverse Kitchen" src="/images/Abstract+500.JPG" alt="Folks – An Abstract , by Aparna of My Diverse Kitchen" width="500" height="334" /></a> Folks – An Abstract , <em>by Aparna of My Diverse Kitchen<!--more--></em></div>
 
 <div class='post-image'><a href="http://briciole.typepad.com/blog/2012/07/zucchine.html#tpe-action-posted-6a00d835508b1869e20177437535d1970d"><img title="A FEAST FOR THE ZUCCHINI LOVER'S EYES" src="http://briciole.typepad.com/.a/6a00d835508b1869e20176168eb81e970c-500wi" alt="A FEAST FOR THE ZUCCHINI LOVER'S EYES" width="523" height="350" /></a> A FEAST FOR THE ZUCCHINI LOVER'S EYES , <em>by Simone of Briciole<!--more--></em></div>
 

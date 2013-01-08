@@ -3,6 +3,8 @@ permalink: /2008/01/30/ghatte-ki-sabzi/
 layout: post
 title: Ghatte ki sabzi
 image: /2008/02/ghatte_3.jpg
+image_230x150: /2008/02/ghatte_3_230x150.jpg
+image_thumbnail: /2008/02/ghatte_3_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

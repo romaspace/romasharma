@@ -3,6 +3,8 @@ permalink: /2008/02/24/mashed-fruits/
 layout: post
 title: Mashed Fruits
 image: /2008/02/mashed_fruits1.jpg
+image_230x150: /2008/02/mashed_fruits1_230x150.jpg
+image_thumbnail: /2008/02/mashed_fruits1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

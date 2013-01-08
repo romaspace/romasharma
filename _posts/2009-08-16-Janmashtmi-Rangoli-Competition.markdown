@@ -3,6 +3,8 @@ permalink: /2009/08/16/janmashtmi-rangoli-competition/
 layout: post
 title: Janmashtmi & Rangoli Competition
 image: /2009/08/janmashtmi1.jpg
+image_230x150: /2009/08/janmashtmi1_230x150.jpg
+image_thumbnail: /2009/08/janmashtmi1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

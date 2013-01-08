@@ -2,7 +2,9 @@
 permalink: /2008/02/08/groundnut-munch/
 layout: post
 title: Groundnut Munch
-image: 
+image: /images/default.jpg
+image_230x150: /images/default_230x150.jpg
+image_thumbnail: /images/default_thumbnail.jpg
 published: true
 author: Roma Sharma
 categories: 

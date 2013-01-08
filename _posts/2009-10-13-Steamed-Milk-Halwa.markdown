@@ -3,6 +3,8 @@ permalink: /2009/10/13/steamed-milk-halwa/
 layout: post
 title: Steamed Milk Halwa
 image: /2009/10/milkhalwa.jpg
+image_230x150: /2009/10/milkhalwa_230x150.jpg
+image_thumbnail: /2009/10/milkhalwa_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

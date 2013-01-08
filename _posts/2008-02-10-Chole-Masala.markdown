@@ -3,6 +3,8 @@ permalink: /2008/02/10/chole-masala/
 layout: post
 title: Chole Masala
 image: /2008/02/chole1.jpg
+image_230x150: /2008/02/chole1_230x150.jpg
+image_thumbnail: /2008/02/chole1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

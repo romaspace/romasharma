@@ -3,6 +3,8 @@ permalink: /2008/07/29/vegetarian-fish-garden-fresh-flowers/
 layout: post
 title: Vegetarian Fish & Garden Fresh Flowers
 image: /2008/07/vegetable_carving_22.jpg
+image_230x150: /2008/07/vegetable_carving_22_230x150.jpg
+image_thumbnail: /2008/07/vegetable_carving_22_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

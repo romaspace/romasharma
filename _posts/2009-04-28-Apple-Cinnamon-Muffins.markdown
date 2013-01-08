@@ -3,6 +3,8 @@ permalink: /2009/04/28/apple-cinnamon-muffins/
 layout: post
 title: Apple Cinnamon Muffins
 image: /2009/04/apple_cinn.jpg
+image_230x150: /2009/04/apple_cinn_230x150.jpg
+image_thumbnail: /2009/04/apple_cinn_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

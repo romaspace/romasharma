@@ -3,6 +3,8 @@ permalink: /2010/04/22/a-trip-to-mysore/
 layout: post
 title: A Trip To Mysore
 image: /2010/04/palace.jpg
+image_230x150: /2010/04/palace_230x150.jpg
+image_thumbnail: /2010/04/palace_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

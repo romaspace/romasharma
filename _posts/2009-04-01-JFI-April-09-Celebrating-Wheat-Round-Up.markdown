@@ -3,6 +3,8 @@ permalink: /2009/04/01/jfi-april-09-celebrating-wheat-round-up/
 layout: post
 title: JFI, April '09 , Celebrating Wheat - Round Up
 image: /2009/04/php2hho1wpm.jpg
+image_230x150: /2009/04/php2hho1wpm_230x150.jpg
+image_thumbnail: /2009/04/php2hho1wpm_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

@@ -3,6 +3,8 @@ permalink: /2009/03/16/black-magic-cake/
 layout: post
 title: Black Magic Cake
 image: /2009/03/black-magic.jpg
+image_230x150: /2009/03/black-magic_230x150.jpg
+image_thumbnail: /2009/03/black-magic_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

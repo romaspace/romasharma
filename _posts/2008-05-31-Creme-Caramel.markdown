@@ -3,6 +3,8 @@ permalink: /2008/05/31/creme-caramel/
 layout: post
 title: Creme Caramel
 image: /2008/05/creme_caramel.jpg
+image_230x150: /2008/05/creme_caramel_230x150.jpg
+image_thumbnail: /2008/05/creme_caramel_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

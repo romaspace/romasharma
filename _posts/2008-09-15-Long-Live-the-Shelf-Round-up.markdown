@@ -3,6 +3,8 @@ permalink: /2008/09/15/long-live-the-shelf-round-up/
 layout: post
 title: Long Live the Shelf! - Round up
 image: /2008/09/plumjam73.jpg?w=300
+image_230x150: /2008/09/plumjam73_230x150.jpg
+image_thumbnail: /2008/09/plumjam73_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

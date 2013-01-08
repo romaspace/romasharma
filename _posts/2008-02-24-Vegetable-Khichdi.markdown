@@ -3,6 +3,8 @@ permalink: /2008/02/24/vegetable-khichdi/
 layout: post
 title: Vegetable Khichdi
 image: /2008/02/veg_khichdi.jpg
+image_230x150: /2008/02/veg_khichdi_230x150.jpg
+image_thumbnail: /2008/02/veg_khichdi_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

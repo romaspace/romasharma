@@ -3,6 +3,8 @@ permalink: /2008/08/29/chocolate-almond-fudge/
 layout: post
 title: Chocolate Almond Fudge
 image: /2008/08/choco_almond_fudge.jpg
+image_230x150: /2008/08/choco_almond_fudge_230x150.jpg
+image_thumbnail: /2008/08/choco_almond_fudge_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

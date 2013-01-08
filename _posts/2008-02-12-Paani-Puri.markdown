@@ -3,6 +3,8 @@ permalink: /2008/02/12/paani-puri/
 layout: post
 title: Paani Puri
 image: /2008/02/pc080011.jpg
+image_230x150: /2008/02/pc080011_230x150.jpg
+image_thumbnail: /2008/02/pc080011_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

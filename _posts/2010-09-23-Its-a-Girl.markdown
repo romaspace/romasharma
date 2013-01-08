@@ -3,6 +3,8 @@ permalink: /2010/09/23/its-a-girl/
 layout: post
 title: Its a Girl !
 image: /2010/09/baby1.gif
+image_230x150: /2010/09/baby1_230x150.gif
+image_thumbnail: /2010/09/baby1_200x200.gif
 published: true
 author: Roma Sharma
 categories: 

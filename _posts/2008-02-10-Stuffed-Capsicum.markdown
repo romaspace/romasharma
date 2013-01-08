@@ -3,6 +3,8 @@ permalink: /2008/02/10/stuffed-capsicum/
 layout: post
 title: Stuffed Capsicum
 image: /2008/03/stuffed_capsicum3.jpg
+image_230x150: /2008/03/stuffed_capsicum3_230x150.jpg
+image_thumbnail: /2008/03/stuffed_capsicum3_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

@@ -3,6 +3,8 @@ permalink: /2008/04/28/konkani-tomato-saar/
 layout: post
 title: Konkani Tomato Saar
 image: /2008/04/tomato_saar_1.jpg
+image_230x150: /2008/04/tomato_saar_1_230x150.jpg
+image_thumbnail: /2008/04/tomato_saar_1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

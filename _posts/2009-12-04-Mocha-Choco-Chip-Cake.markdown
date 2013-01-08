@@ -3,6 +3,8 @@ permalink: /2009/12/04/mocha-choco-chip-cake/
 layout: post
 title: Mocha Choco Chip Cake
 image: /2009/12/mochachocochip.jpg
+image_230x150: /2009/12/mochachocochip_230x150.jpg
+image_thumbnail: /2009/12/mochachocochip_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

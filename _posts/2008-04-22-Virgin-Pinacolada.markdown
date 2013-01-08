@@ -3,6 +3,8 @@ permalink: /2008/04/22/virgin-pinacolada/
 layout: post
 title: Virgin Pinacolada
 image: /2008/04/virgin_pinacolada2.jpg
+image_230x150: /2008/04/virgin_pinacolada2_230x150.jpg
+image_thumbnail: /2008/04/virgin_pinacolada2_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

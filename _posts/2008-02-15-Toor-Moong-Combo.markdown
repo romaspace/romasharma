@@ -3,6 +3,8 @@ permalink: /2008/02/15/toor-moong-combo/
 layout: post
 title: Toor Moong Combo
 image: /2008/02/toor_moong_combo.jpg
+image_230x150: /2008/02/toor_moong_combo_230x150.jpg
+image_thumbnail: /2008/02/toor_moong_combo_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

@@ -3,6 +3,8 @@ permalink: /2008/07/10/chilly-chow/
 layout: post
 title: Chilly Chow
 image: /2008/07/chilly_chow.jpg
+image_230x150: /2008/07/chilly_chow_230x150.jpg
+image_thumbnail: /2008/07/chilly_chow_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

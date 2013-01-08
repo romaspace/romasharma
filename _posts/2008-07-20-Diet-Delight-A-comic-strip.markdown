@@ -2,7 +2,9 @@
 permalink: /2008/07/20/diet-delight-a-comic-strip/
 layout: post
 title: Diet Delight - A comic strip
-image: http://www.toondoo.com//public/r/o/m/romaspace/toons/cool-cartoon-315964.png
+image: /images/cool-cartoon-315964.png
+image_230x150: /images/cool-cartoon-315964_230x150.png
+image_thumbnail: /images/cool-cartoon-315964_200x200.png
 published: true
 author: Roma Sharma
 categories: 
@@ -15,4 +17,4 @@ People can have hour-long discussions on the topic of dieting. I feel all of us 
 This is my entry to <a href="http://www.tasteofmysore.com/">Lakshmi</a>'s comic strip event,  '<a href="http://www.tasteofmysore.com/2008/06/create-comic-round-up-theme-for-next.html">Weight Loss - Impossible</a>' Thanks for introducing me to <a href="http://www.toondoo.com/">ToonDoo</a>.
 
 <strong>Please use the right scroll bar to see the complete comic strip!</strong>
-<p style="overflow:auto;padding-right:5px;width:400px;height:340px;"><a href="http://www.toondoo.com/View.toon?param=315964"><img longdesc="toon description.." src="http://www.toondoo.com//public/r/o/m/romaspace/toons/cool-cartoon-315964.png" border="0" alt="Diet Delight" /></a></p>
+<p style="overflow:auto;padding-right:5px;width:400px;height:340px;"><a href="http://www.toondoo.com/View.toon?param=315964"><img longdesc="toon description.." src="/images/cool-cartoon-315964.png" border="0" alt="Diet Delight" /></a></p>

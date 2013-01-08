@@ -3,6 +3,8 @@ permalink: /2009/07/05/chennapatna-toy-factory/
 layout: post
 title: Chennapatna Toy Factory
 image: /2009/07/artisan_shadow.jpg
+image_230x150: /2009/07/artisan_shadow_230x150.jpg
+image_thumbnail: /2009/07/artisan_shadow_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

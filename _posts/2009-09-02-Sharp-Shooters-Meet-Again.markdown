@@ -3,6 +3,8 @@ permalink: /2009/09/02/sharp-shooters-meet-again/
 layout: post
 title: Sharp Shooters Meet Again
 image: /2009/09/thirstyanyone.jpg
+image_230x150: /2009/09/thirstyanyone_230x150.jpg
+image_thumbnail: /2009/09/thirstyanyone_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

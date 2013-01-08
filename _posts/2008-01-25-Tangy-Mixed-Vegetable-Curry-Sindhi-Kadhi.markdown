@@ -3,6 +3,8 @@ permalink: /2008/01/25/tangy-mixed-vegetable-curry/
 layout: post
 title: Tangy Mixed Vegetable Curry (Sindhi Kadhi)
 image: /2008/01/mixed_veg_curry.jpg
+image_230x150: /2008/01/mixed_veg_curry_230x150.jpg
+image_thumbnail: /2008/01/mixed_veg_curry_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

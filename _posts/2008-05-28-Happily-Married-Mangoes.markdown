@@ -3,6 +3,8 @@ permalink: /2008/05/28/happily-married-mangoes/
 layout: post
 title: Happily Married Mangoes
 image: /2008/05/mango_marriage_2.jpg
+image_230x150: /2008/05/mango_marriage_2_230x150.jpg
+image_thumbnail: /2008/05/mango_marriage_2_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

@@ -3,6 +3,8 @@ permalink: /2008/12/09/eggless-vanilla-cake/
 layout: post
 title: Eggless Vanilla Cake
 image: /2008/12/vanilla_cake1.jpg
+image_230x150: /2008/12/vanilla_cake1_230x150.jpg
+image_thumbnail: /2008/12/vanilla_cake1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

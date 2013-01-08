@@ -3,6 +3,8 @@ permalink: /2008/04/24/simply-chocolate-homemade-chocolate-ice-cream/
 layout: post
 title: Simply Chocolate (Homemade Chocolate Ice cream)
 image: /2008/04/simply_chocolate_1.jpg
+image_230x150: /2008/04/simply_chocolate_1_230x150.jpg
+image_thumbnail: /2008/04/simply_chocolate_1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

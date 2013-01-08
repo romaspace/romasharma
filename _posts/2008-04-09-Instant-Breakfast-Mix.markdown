@@ -3,6 +3,8 @@ permalink: /2008/04/09/instant-breakfast-mix/
 layout: post
 title: Instant Breakfast Mix
 image: /2008/04/instant_breakfast_mix.jpg
+image_230x150: /2008/04/instant_breakfast_mix_230x150.jpg
+image_thumbnail: /2008/04/instant_breakfast_mix_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

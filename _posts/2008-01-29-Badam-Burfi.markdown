@@ -2,7 +2,9 @@
 permalink: /2008/01/29/badam-burfi/
 layout: post
 title: Badam Burfi
-image: 
+image: /images/default.jpg
+image_230x150: /images/default_230x150.jpg
+image_thumbnail: /images/default_thumbnail.jpg
 published: true
 author: Roma Sharma
 categories: 

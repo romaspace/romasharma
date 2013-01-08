@@ -3,6 +3,8 @@ permalink: /2008/07/15/pudina-ke-gatte/
 layout: post
 title: Pudina ke Gatte
 image: /2008/07/pudina_ke_gatte.jpg
+image_230x150: /2008/07/pudina_ke_gatte_230x150.jpg
+image_thumbnail: /2008/07/pudina_ke_gatte_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

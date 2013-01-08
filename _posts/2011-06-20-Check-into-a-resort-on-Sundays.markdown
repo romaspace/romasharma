@@ -3,6 +3,8 @@ permalink: /2011/06/20/check-into-a-resort-on-sundays/
 layout: post
 title: Check into a resort on Sundays
 image: /2011/06/granite_view.jpg
+image_230x150: /2011/06/granite_view_230x150.jpg
+image_thumbnail: /2011/06/granite_view_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

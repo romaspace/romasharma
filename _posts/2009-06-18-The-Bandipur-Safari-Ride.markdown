@@ -3,6 +3,8 @@ permalink: /2009/06/18/bandipur-safari/
 layout: post
 title: The Bandipur Safari Ride
 image: /2009/06/elephants.jpg
+image_230x150: /2009/06/elephants_230x150.jpg
+image_thumbnail: /2009/06/elephants_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

@@ -3,6 +3,8 @@ permalink: /2008/11/18/tailing-the-donkey/
 layout: post
 title: Tailing the donkey
 image: /2008/11/tailing_the_donkey.jpg
+image_230x150: /2008/11/tailing_the_donkey_230x150.jpg
+image_thumbnail: /2008/11/tailing_the_donkey_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

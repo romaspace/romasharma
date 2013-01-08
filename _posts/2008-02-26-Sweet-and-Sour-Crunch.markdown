@@ -3,6 +3,8 @@ permalink: /2008/02/26/sweet-and-sour-crunch/
 layout: post
 title: Sweet and Sour Crunch
 image: /2008/02/sweet_n_sour_crunch_1.jpg
+image_230x150: /2008/02/sweet_n_sour_crunch_1_230x150.jpg
+image_thumbnail: /2008/02/sweet_n_sour_crunch_1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

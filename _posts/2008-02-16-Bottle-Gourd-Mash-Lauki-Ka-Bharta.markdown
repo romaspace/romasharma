@@ -3,6 +3,8 @@ permalink: /2008/02/16/lauki-ka-bharta/
 layout: post
 title: Bottle Gourd Mash / Lauki Ka Bharta
 image: /2008/02/lauki_bharta.jpg
+image_230x150: /2008/02/lauki_bharta_230x150.jpg
+image_thumbnail: /2008/02/lauki_bharta_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

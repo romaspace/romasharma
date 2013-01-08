@@ -3,6 +3,8 @@ permalink: /2008/05/24/vegetable-money-bag/
 layout: post
 title: Vegetable Money Bag
 image: /2008/05/money-bag.jpg
+image_230x150: /2008/05/money-bag_230x150.jpg
+image_thumbnail: /2008/05/money-bag_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

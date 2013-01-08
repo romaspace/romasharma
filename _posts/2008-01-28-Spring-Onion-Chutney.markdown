@@ -2,7 +2,9 @@
 permalink: /2008/01/28/spring-onion-chutney/
 layout: post
 title: Spring Onion Chutney
-image: 
+image: /images/default.jpg
+image_230x150: /images/default_230x150.jpg
+image_thumbnail: /images/default_thumbnail.jpg
 published: true
 author: Roma Sharma
 categories: 

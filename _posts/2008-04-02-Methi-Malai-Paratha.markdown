@@ -3,6 +3,8 @@ permalink: /2008/04/02/methi-malai-paratha/
 layout: post
 title: Methi Malai Paratha
 image: /2008/04/methi_paratha.jpg
+image_230x150: /2008/04/methi_paratha_230x150.jpg
+image_thumbnail: /2008/04/methi_paratha_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

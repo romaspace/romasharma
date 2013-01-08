@@ -3,6 +3,8 @@ permalink: /2012/04/15/published-my-baby-food-recipe-book/
 layout: post
 title: Published my Baby Food Recipe book 
 image: /2012/04/amazon_screenshot.jpg
+image_230x150: /2012/04/amazon_screenshot_230x150.jpg
+image_thumbnail: /2012/04/amazon_screenshot_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

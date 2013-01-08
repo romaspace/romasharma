@@ -3,6 +3,8 @@ permalink: /2008/08/19/phulauri-ki-kadhi/
 layout: post
 title: Phulauri Ki Kadhi
 image: /2008/08/phulauri_kadhi_1.jpg
+image_230x150: /2008/08/phulauri_kadhi_1_230x150.jpg
+image_thumbnail: /2008/08/phulauri_kadhi_1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

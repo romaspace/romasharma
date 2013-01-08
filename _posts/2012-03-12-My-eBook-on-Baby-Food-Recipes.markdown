@@ -3,6 +3,8 @@ permalink: /2012/03/12/my-ebook-on-baby-food-recipes/
 layout: post
 title: My eBook on Baby Food Recipes
 image: /2012/03/cover1.jpg?w=187
+image_230x150: /2012/03/cover1_230x150.jpg
+image_thumbnail: /2012/03/cover1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

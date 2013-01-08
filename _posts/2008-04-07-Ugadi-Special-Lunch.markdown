@@ -3,6 +3,8 @@ permalink: /2008/04/07/ugadi-special-lunch/
 layout: post
 title: Ugadi Special Lunch
 image: /2008/04/ugadi_special_lunch11.jpg
+image_230x150: /2008/04/ugadi_special_lunch11_230x150.jpg
+image_thumbnail: /2008/04/ugadi_special_lunch11_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

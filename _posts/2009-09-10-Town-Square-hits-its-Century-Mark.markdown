@@ -3,6 +3,8 @@ permalink: /2009/09/10/town-square-hits-its-century-mark/
 layout: post
 title: Town Square hits its Century Mark
 image: /2009/09/townsquare.jpg
+image_230x150: /2009/09/townsquare_230x150.jpg
+image_thumbnail: /2009/09/townsquare_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

@@ -3,6 +3,8 @@ permalink: /2008/09/06/janamashtmi-and-ganesh-chaturthi/
 layout: post
 title: Janamashtmi and Ganesh Chaturthi
 image: /2008/09/janamashtmi_prasad.jpg?w=246
+image_230x150: /2008/09/janamashtmi_prasad_230x150.jpg
+image_thumbnail: /2008/09/janamashtmi_prasad_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

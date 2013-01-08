@@ -3,6 +3,8 @@ permalink: /2009/12/16/pudina-shikanji/
 layout: post
 title: Pudina Shikanji
 image: /2009/12/pudina_shikanji.jpg
+image_230x150: /2009/12/pudina_shikanji_230x150.jpg
+image_thumbnail: /2009/12/pudina_shikanji_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

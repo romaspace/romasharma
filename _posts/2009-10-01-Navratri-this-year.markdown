@@ -3,6 +3,8 @@ permalink: /2009/10/01/navratri-this-year/
 layout: post
 title: Navratri this year
 image: /2009/10/train.jpg
+image_230x150: /2009/10/train_230x150.jpg
+image_thumbnail: /2009/10/train_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

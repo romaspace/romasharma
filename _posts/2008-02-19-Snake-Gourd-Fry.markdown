@@ -3,6 +3,8 @@ permalink: /2008/02/19/snake-gourd-fry/
 layout: post
 title: Snake Gourd Fry
 image: /2008/02/snake_gourd.jpg
+image_230x150: /2008/02/snake_gourd_230x150.jpg
+image_thumbnail: /2008/02/snake_gourd_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

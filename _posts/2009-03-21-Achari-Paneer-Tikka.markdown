@@ -2,7 +2,9 @@
 permalink: /2009/03/21/achari-paneer-tikka/
 layout: post
 title: Achari Paneer Tikka
-image: 
+image: /images/default.jpg
+image_230x150: /images/default_230x150.jpg
+image_thumbnail: /images/default_thumbnail.jpg
 published: true
 author: Roma Sharma
 categories: 

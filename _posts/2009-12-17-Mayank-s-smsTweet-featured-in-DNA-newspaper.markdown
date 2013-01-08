@@ -3,6 +3,8 @@ permalink: /2009/12/17/mayanks-smstweet-featured-in-dna-newspaper/
 layout: post
 title: Mayank's smsTweet featured in DNA newspaper
 image: /2009/12/paperarticle3.jpg
+image_230x150: /2009/12/paperarticle3_230x150.jpg
+image_thumbnail: /2009/12/paperarticle3_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

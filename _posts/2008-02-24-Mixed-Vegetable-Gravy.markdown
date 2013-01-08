@@ -3,6 +3,8 @@ permalink: /2008/02/24/mixed-vegetable-gravy/
 layout: post
 title: Mixed Vegetable Gravy
 image: /2008/02/mixed_veg_gravy1.jpg
+image_230x150: /2008/02/mixed_veg_gravy1_230x150.jpg
+image_thumbnail: /2008/02/mixed_veg_gravy1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

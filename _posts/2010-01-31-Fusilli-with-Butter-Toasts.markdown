@@ -3,6 +3,8 @@ permalink: /2010/01/31/fusilli-with-butter-toasts/
 layout: post
 title: Fusilli with Butter Toasts
 image: /2010/01/pasta.jpg
+image_230x150: /2010/01/pasta_230x150.jpg
+image_thumbnail: /2010/01/pasta_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

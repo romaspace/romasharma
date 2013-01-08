@@ -3,6 +3,8 @@ permalink: /2008/06/28/weight-loss-food-your-recipe-rocks/
 layout: post
 title: Weight Loss Food - Your Recipe Rocks
 image: /2008/06/veg_dalia.jpg
+image_230x150: /2008/06/veg_dalia_230x150.jpg
+image_thumbnail: /2008/06/veg_dalia_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

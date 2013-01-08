@@ -3,6 +3,8 @@ permalink: /2008/01/21/til-rava-burfi/
 layout: post
 title: Til Rava Burfi
 image: /2008/01/rava_til_burfi.jpg?w=300&amp;h=298
+image_230x150: /2008/01/rava_til_burfi_230x150.jpg
+image_thumbnail: /2008/01/rava_til_burfi_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

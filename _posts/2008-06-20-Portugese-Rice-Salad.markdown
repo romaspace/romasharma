@@ -3,6 +3,8 @@ permalink: /2008/06/20/portugese-rice-salad/
 layout: post
 title: Portugese Rice Salad
 image: /2008/06/portugese_rice_salad.jpg
+image_230x150: /2008/06/portugese_rice_salad_230x150.jpg
+image_thumbnail: /2008/06/portugese_rice_salad_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

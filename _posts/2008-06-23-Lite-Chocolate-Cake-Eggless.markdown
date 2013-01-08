@@ -3,6 +3,8 @@ permalink: /2008/06/23/lite-chocolate-cake-eggless/
 layout: post
 title: Lite Chocolate Cake (Eggless)
 image: /2008/06/chocolate_cake.jpg
+image_230x150: /2008/06/chocolate_cake_230x150.jpg
+image_thumbnail: /2008/06/chocolate_cake_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

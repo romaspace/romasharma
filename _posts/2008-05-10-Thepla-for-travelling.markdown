@@ -3,6 +3,8 @@ permalink: /2008/05/10/thepla-for-travelling/
 layout: post
 title: Thepla (for travelling)
 image: /2008/05/thepla_11.jpg
+image_230x150: /2008/05/thepla_11_230x150.jpg
+image_thumbnail: /2008/05/thepla_11_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

@@ -3,6 +3,8 @@ permalink: /2012/08/03/dishwasher-one-o-one/
 layout: post
 title: Dishwasher one-o-one
 image: /2012/08/dishwasher_loaded.jpg
+image_230x150: /2012/08/dishwasher_loaded_230x150.jpg
+image_thumbnail: /2012/08/dishwasher_loaded_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

@@ -3,6 +3,8 @@ permalink: /2010/01/26/white-fruity-cake/
 layout: post
 title: White Fruity Cake
 image: /2010/01/cashew-white-cake1.jpg
+image_230x150: /2010/01/cashew-white-cake1_230x150.jpg
+image_thumbnail: /2010/01/cashew-white-cake1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

@@ -3,6 +3,8 @@ permalink: /2008/11/04/eggless-butterless-cake/
 layout: post
 title: Eggless Butterless Cake
 image: /2008/11/atta_malai_cake.jpg
+image_230x150: /2008/11/atta_malai_cake_230x150.jpg
+image_thumbnail: /2008/11/atta_malai_cake_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

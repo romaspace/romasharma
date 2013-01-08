@@ -3,6 +3,8 @@ permalink: /2009/05/27/photography-workshop-by-kalyan-varma/
 layout: post
 title: Photography Workshop - by Kalyan Varma
 image: /2009/05/flowers1.jpg
+image_230x150: /2009/05/flowers1_230x150.jpg
+image_thumbnail: /2009/05/flowers1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

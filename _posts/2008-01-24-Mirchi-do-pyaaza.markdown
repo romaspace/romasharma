@@ -3,6 +3,8 @@ permalink: /2008/01/24/mirchi-do-pyaaza/
 layout: post
 title: Mirchi - do - pyaaza
 image: /2008/02/mirchi_do_pyaaza1.jpg
+image_230x150: /2008/02/mirchi_do_pyaaza1_230x150.jpg
+image_thumbnail: /2008/02/mirchi_do_pyaaza1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

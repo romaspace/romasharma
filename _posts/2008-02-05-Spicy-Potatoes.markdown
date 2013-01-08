@@ -3,6 +3,8 @@ permalink: /2008/02/05/spicy-potatoes/
 layout: post
 title: Spicy Potatoes
 image: /2008/03/baby_potatoes1.jpg
+image_230x150: /2008/03/baby_potatoes1_230x150.jpg
+image_thumbnail: /2008/03/baby_potatoes1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

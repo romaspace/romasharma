@@ -3,6 +3,8 @@ permalink: /2009/10/26/chocolate-chip-cookies/
 layout: post
 title: Chocolate Chip Cookies
 image: /2009/10/cookies.jpg
+image_230x150: /2009/10/cookies_230x150.jpg
+image_thumbnail: /2009/10/cookies_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

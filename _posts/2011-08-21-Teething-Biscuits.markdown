@@ -3,6 +3,8 @@ permalink: /2011/08/21/teething-biscuits/
 layout: post
 title: Teething Biscuits
 image: /2011/08/teething_biscuits_scaled1.jpg
+image_230x150: /2011/08/teething_biscuits_scaled1_230x150.jpg
+image_thumbnail: /2011/08/teething_biscuits_scaled1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

@@ -3,6 +3,8 @@ permalink: /2012/10/02/ganesh-pooja-year-2012/
 layout: post
 title: Ganesh Pooja Year 2012
 image: /2012/10/ganeshji_mantap.jpg
+image_230x150: /2012/10/ganeshji_mantap_230x150.jpg
+image_thumbnail: /2012/10/ganeshji_mantap_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

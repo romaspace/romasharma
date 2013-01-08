@@ -3,6 +3,8 @@ permalink: /2008/03/20/dressed-crackers/
 layout: post
 title: Dressed Crackers
 image: /2008/03/dressedcrackers6.jpg
+image_230x150: /2008/03/dressedcrackers6_230x150.jpg
+image_thumbnail: /2008/03/dressedcrackers6_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

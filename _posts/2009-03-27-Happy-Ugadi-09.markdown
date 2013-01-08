@@ -3,6 +3,8 @@ permalink: /2009/03/27/happy-ugadi-09/
 layout: post
 title: Happy Ugadi '09
 image: /2009/03/ugadi_lunch.jpg
+image_230x150: /2009/03/ugadi_lunch_230x150.jpg
+image_thumbnail: /2009/03/ugadi_lunch_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

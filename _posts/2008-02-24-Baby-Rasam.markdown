@@ -3,6 +3,8 @@ permalink: /2008/02/24/baby-rasam/
 layout: post
 title: Baby Rasam
 image: /2008/02/baby_rasam_1.jpg
+image_230x150: /2008/02/baby_rasam_1_230x150.jpg
+image_thumbnail: /2008/02/baby_rasam_1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

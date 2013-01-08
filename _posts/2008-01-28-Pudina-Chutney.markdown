@@ -3,6 +3,8 @@ permalink: /2008/01/28/pudina-chutney/
 layout: post
 title: Pudina Chutney
 image: /2008/02/pudina_chutney3.jpg
+image_230x150: /2008/02/pudina_chutney3_230x150.jpg
+image_thumbnail: /2008/02/pudina_chutney3_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

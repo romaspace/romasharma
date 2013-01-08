@@ -3,6 +3,8 @@ permalink: /2008/03/12/raw-mango-dal/
 layout: post
 title: Raw Mango Dal
 image: /2008/03/raw_mango_dal1.jpg
+image_230x150: /2008/03/raw_mango_dal1_230x150.jpg
+image_thumbnail: /2008/03/raw_mango_dal1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

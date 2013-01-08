@@ -3,6 +3,8 @@ permalink: /2009/06/10/chilly-paneer/
 layout: post
 title: Chilly Paneer
 image: /2009/06/chillypaneer_1.jpg
+image_230x150: /2009/06/chillypaneer_1_230x150.jpg
+image_thumbnail: /2009/06/chillypaneer_1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

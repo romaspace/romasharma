@@ -3,6 +3,8 @@ permalink: /2008/02/15/lauki-channa-dal/
 layout: post
 title: Lauki Channa Dal
 image: /2008/02/lauki_channa_dal.jpg
+image_230x150: /2008/02/lauki_channa_dal_230x150.jpg
+image_thumbnail: /2008/02/lauki_channa_dal_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

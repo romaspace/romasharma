@@ -3,6 +3,8 @@ permalink: /2008/12/19/orange-raisin-muffins/
 layout: post
 title: Orange Raisin Muffins
 image: /2008/12/orange_raisin_muffin.jpg
+image_230x150: /2008/12/orange_raisin_muffin_230x150.jpg
+image_thumbnail: /2008/12/orange_raisin_muffin_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

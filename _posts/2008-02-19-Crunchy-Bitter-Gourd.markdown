@@ -3,6 +3,8 @@ permalink: /2008/02/19/crunchy-bitter-gourd/
 layout: post
 title: Crunchy Bitter Gourd
 image: /2008/03/karela.jpg
+image_230x150: /2008/03/karela_230x150.jpg
+image_thumbnail: /2008/03/karela_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

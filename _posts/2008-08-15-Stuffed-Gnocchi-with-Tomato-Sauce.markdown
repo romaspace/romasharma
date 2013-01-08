@@ -3,6 +3,8 @@ permalink: /2008/08/15/stuffed-gnocchi-with-tomato-sauce/
 layout: post
 title: Stuffed Gnocchi with Tomato Sauce
 image: /2008/08/gnocchi_with_tom_sauce.jpg
+image_230x150: /2008/08/gnocchi_with_tom_sauce_230x150.jpg
+image_thumbnail: /2008/08/gnocchi_with_tom_sauce_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

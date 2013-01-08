@@ -3,6 +3,8 @@ permalink: /2008/02/24/vegetable-dalia/
 layout: post
 title: Vegetable Dalia
 image: /2008/02/veg_dalia1.jpg
+image_230x150: /2008/02/veg_dalia1_230x150.jpg
+image_thumbnail: /2008/02/veg_dalia1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

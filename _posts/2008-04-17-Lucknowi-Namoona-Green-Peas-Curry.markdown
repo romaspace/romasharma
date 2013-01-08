@@ -3,6 +3,8 @@ permalink: /2008/04/17/lucknowi-namoona-green-peas-curry/
 layout: post
 title: Lucknowi Namoona / Green Peas Curry
 image: /2008/04/namoona.jpg
+image_230x150: /2008/04/namoona_230x150.jpg
+image_thumbnail: /2008/04/namoona_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

@@ -3,6 +3,8 @@ permalink: /2008/02/13/chole-tikki/
 layout: post
 title: Chole Tikki Chaat
 image: /2008/02/pc080012_good.jpg
+image_230x150: /2008/02/pc080012_good_230x150.jpg
+image_thumbnail: /2008/02/pc080012_good_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

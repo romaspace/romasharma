@@ -3,6 +3,8 @@ permalink: /2012/07/18/dishwasher-delight/
 layout: post
 title: Dishwasher Delight
 image: /2012/07/dishwasher.jpg
+image_230x150: /2012/07/dishwasher_230x150.jpg
+image_thumbnail: /2012/07/dishwasher_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

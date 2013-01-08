@@ -3,6 +3,8 @@ permalink: /2010/01/17/cheese-straws/
 layout: post
 title: Cheese Straws
 image: /2010/01/cheese_straws.jpg
+image_230x150: /2010/01/cheese_straws_230x150.jpg
+image_thumbnail: /2010/01/cheese_straws_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

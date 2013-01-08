@@ -3,6 +3,8 @@ permalink: /2008/12/15/birthday-cake-for-jujeps-a-sketch/
 layout: post
 title: Birthday Cake for Jujeps - A Sketch
 image: /2008/12/frame_112.jpg
+image_230x150: /2008/12/frame_112_230x150.jpg
+image_thumbnail: /2008/12/frame_112_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

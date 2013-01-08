@@ -3,6 +3,8 @@ permalink: /2009/08/24/ganesh-chaturti/
 layout: post
 title: Ganesh Chaturti
 image: /2009/08/mantap.jpg
+image_230x150: /2009/08/mantap_230x150.jpg
+image_thumbnail: /2009/08/mantap_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

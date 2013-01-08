@@ -3,6 +3,8 @@ permalink: /2008/07/25/healthy-honey-cakes/
 layout: post
 title: Healthy Honey Cakes
 image: /2008/07/honey_cakes.jpg
+image_230x150: /2008/07/honey_cakes_230x150.jpg
+image_thumbnail: /2008/07/honey_cakes_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

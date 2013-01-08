@@ -3,6 +3,8 @@ permalink: /2012/03/19/sunday-special-biryani/
 layout: post
 title: Sunday Special Biryani
 image: /2012/03/red_biryani.jpg
+image_230x150: /2012/03/red_biryani_230x150.jpg
+image_thumbnail: /2012/03/red_biryani_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

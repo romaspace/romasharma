@@ -3,6 +3,8 @@ permalink: /2008/06/04/sweet-n-sour-flavors-of-life/
 layout: post
 title: Sweet n Sour Flavors of Life
 image: /2008/06/click_yellow1.jpg
+image_230x150: /2008/06/click_yellow1_230x150.jpg
+image_thumbnail: /2008/06/click_yellow1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

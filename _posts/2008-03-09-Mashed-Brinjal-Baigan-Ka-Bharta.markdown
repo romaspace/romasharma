@@ -3,6 +3,8 @@ permalink: /2008/03/09/mashed-brinjal-baigan-ka-bharta/
 layout: post
 title: Mashed Brinjal (Baigan Ka Bharta)
 image: /2008/03/baiganbharta.jpg
+image_230x150: /2008/03/baiganbharta_230x150.jpg
+image_thumbnail: /2008/03/baiganbharta_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

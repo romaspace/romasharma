@@ -3,6 +3,8 @@ permalink: /2008/03/30/tawa-masala/
 layout: post
 title: Tawa Masala
 image: /2008/03/tawamasala1.jpg
+image_230x150: /2008/03/tawamasala1_230x150.jpg
+image_thumbnail: /2008/03/tawamasala1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

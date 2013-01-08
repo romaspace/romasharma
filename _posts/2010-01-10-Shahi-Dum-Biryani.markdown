@@ -3,6 +3,8 @@ permalink: /2010/01/10/shahi-dum-biryani/
 layout: post
 title: Shahi Dum Biryani
 image: /2010/01/shahidumbiryani.jpg
+image_230x150: /2010/01/shahidumbiryani_230x150.jpg
+image_thumbnail: /2010/01/shahidumbiryani_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

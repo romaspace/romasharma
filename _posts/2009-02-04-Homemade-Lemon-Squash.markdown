@@ -3,6 +3,8 @@ permalink: /2009/02/04/homemade-lemon-squash/
 layout: post
 title: Homemade Lemon Squash
 image: /2009/02/lemonade.jpg
+image_230x150: /2009/02/lemonade_230x150.jpg
+image_thumbnail: /2009/02/lemonade_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

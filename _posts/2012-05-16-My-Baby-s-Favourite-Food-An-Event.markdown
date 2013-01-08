@@ -3,6 +3,8 @@ permalink: /2012/05/16/my-babys-favourite-food-an-event/
 layout: post
 title: My Baby's Favourite Food - An Event
 image: /2012/05/fave_food_event.jpg
+image_230x150: /2012/05/fave_food_event_230x150.jpg
+image_thumbnail: /2012/05/fave_food_event_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

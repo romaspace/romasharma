@@ -3,6 +3,8 @@ permalink: /2008/05/20/may-mango-matri/
 layout: post
 title: May Mango Matri
 image: /2008/05/mango_matri_11.jpg
+image_230x150: /2008/05/mango_matri_11_230x150.jpg
+image_thumbnail: /2008/05/mango_matri_11_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

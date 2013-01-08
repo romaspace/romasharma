@@ -3,6 +3,8 @@ permalink: /2009/04/15/back-from-dehra-dun/
 layout: post
 title: Back from Dehra Dun
 image: /2009/04/p22500181.jpg
+image_230x150: /2009/04/p22500181_230x150.jpg
+image_thumbnail: /2009/04/p22500181_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

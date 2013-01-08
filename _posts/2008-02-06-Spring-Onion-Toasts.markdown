@@ -3,6 +3,8 @@ permalink: /2008/02/06/spring-onion-toasts/
 layout: post
 title: Spring Onion Toasts
 image: /2008/02/spring_toasts4.jpg
+image_230x150: /2008/02/spring_toasts4_230x150.jpg
+image_thumbnail: /2008/02/spring_toasts4_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

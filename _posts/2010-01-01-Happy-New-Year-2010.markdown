@@ -3,6 +3,8 @@ permalink: /2010/01/01/happy-new-year-2010/
 layout: post
 title: Happy New Year 2010
 image: /2010/01/mushroom_manchurian.jpg
+image_230x150: /2010/01/mushroom_manchurian_230x150.jpg
+image_thumbnail: /2010/01/mushroom_manchurian_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

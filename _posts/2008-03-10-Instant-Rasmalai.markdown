@@ -2,7 +2,9 @@
 permalink: /2008/03/10/instant-rasmalai/
 layout: post
 title: Instant Rasmalai
-image: 
+image: /images/default.jpg
+image_230x150: /images/default_230x150.jpg
+image_thumbnail: /images/default_thumbnail.jpg
 published: true
 author: Roma Sharma
 categories: 

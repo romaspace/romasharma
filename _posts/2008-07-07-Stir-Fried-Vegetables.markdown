@@ -3,6 +3,8 @@ permalink: /2008/07/07/stir-fried-vegetables/
 layout: post
 title: Stir Fried Vegetables
 image: /2008/07/stir_fried_vegetables.jpg
+image_230x150: /2008/07/stir_fried_vegetables_230x150.jpg
+image_thumbnail: /2008/07/stir_fried_vegetables_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

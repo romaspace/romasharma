@@ -3,6 +3,8 @@ permalink: /2011/08/16/crunchy-soya-toasts/
 layout: post
 title: Crunchy Soya Toasts
 image: /2011/08/soya_toast_scaled.jpg
+image_230x150: /2011/08/soya_toast_scaled_230x150.jpg
+image_thumbnail: /2011/08/soya_toast_scaled_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

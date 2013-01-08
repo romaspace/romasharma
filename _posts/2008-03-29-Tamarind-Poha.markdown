@@ -3,6 +3,8 @@ permalink: /2008/03/29/tamarind-poha/
 layout: post
 title: Tamarind Poha
 image: /2008/03/tamarind_poha.jpg
+image_230x150: /2008/03/tamarind_poha_230x150.jpg
+image_thumbnail: /2008/03/tamarind_poha_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

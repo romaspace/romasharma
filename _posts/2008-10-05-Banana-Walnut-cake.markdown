@@ -3,6 +3,8 @@ permalink: /2008/10/05/banana-walnut-cake/
 layout: post
 title: Banana Walnut cake
 image: /2008/10/banana_walnut_cake.jpg
+image_230x150: /2008/10/banana_walnut_cake_230x150.jpg
+image_thumbnail: /2008/10/banana_walnut_cake_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

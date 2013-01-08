@@ -3,6 +3,8 @@ permalink: /2008/06/30/vegetable-carving/
 layout: post
 title: Vegetable Carving
 image: /2008/06/veg_carving_4_good.jpg?w=204
+image_230x150: /2008/06/veg_carving_4_good_230x150.jpg
+image_thumbnail: /2008/06/veg_carving_4_good_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

@@ -3,6 +3,8 @@ permalink: /2009/03/23/outliers-by-malcolm-gladwell%e2%80%93-a-review/
 layout: post
 title: OUTLIERS by Malcolm Gladwell– A Review
 image: /2009/03/outliers_1.jpg
+image_230x150: /2009/03/outliers_1_230x150.jpg
+image_thumbnail: /2009/03/outliers_1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

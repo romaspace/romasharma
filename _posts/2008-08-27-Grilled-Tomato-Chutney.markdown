@@ -3,6 +3,8 @@ permalink: /2008/08/27/grilled-tomato-chutney/
 layout: post
 title: Grilled Tomato Chutney
 image: /2008/08/grilled_tom_chutney1.jpg?w=247
+image_230x150: /2008/08/grilled_tom_chutney1_230x150.jpg
+image_thumbnail: /2008/08/grilled_tom_chutney1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

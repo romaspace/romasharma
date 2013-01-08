@@ -3,6 +3,8 @@ permalink: /2008/04/29/yummy-orange-pudding/
 layout: post
 title: Yummy Orange Pudding
 image: /2008/04/orange_pudding_1.jpg
+image_230x150: /2008/04/orange_pudding_1_230x150.jpg
+image_thumbnail: /2008/04/orange_pudding_1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

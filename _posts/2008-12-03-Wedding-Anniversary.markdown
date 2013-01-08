@@ -3,6 +3,8 @@ permalink: /2008/12/03/wedding-anniversary/
 layout: post
 title: Wedding Anniversary
 image: /2008/12/wedding_anniversary.jpg
+image_230x150: /2008/12/wedding_anniversary_230x150.jpg
+image_thumbnail: /2008/12/wedding_anniversary_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

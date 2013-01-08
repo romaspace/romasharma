@@ -3,6 +3,8 @@ permalink: /2012/01/07/a-moment-with-sister-shivani/
 layout: post
 title: A moment with Sister Shivani
 image: /2012/01/sister_shivani.jpg
+image_230x150: /2012/01/sister_shivani_230x150.jpg
+image_thumbnail: /2012/01/sister_shivani_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

@@ -3,6 +3,8 @@ permalink: /2008/02/23/stuffed-baby-brinjals/
 layout: post
 title: Stuffed Baby Brinjals
 image: /2008/02/stuffed_brinjal_3.jpg
+image_230x150: /2008/02/stuffed_brinjal_3_230x150.jpg
+image_thumbnail: /2008/02/stuffed_brinjal_3_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 
@@ -11,7 +13,6 @@ tags:
 - Brinjal recipes
 - indian vegetables
 - stuffed vegetables
-- Featured
 ---
 <span style="text-decoration:underline;"><strong>Stuffed Baby Brinjals</strong></span>
 

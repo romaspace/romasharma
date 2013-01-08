@@ -3,6 +3,8 @@ permalink: /2008/02/04/basmati-kheer/
 layout: post
 title: Basmati Kheer
 image: /2008/02/kheer_temp1.jpg
+image_230x150: /2008/02/kheer_temp1_230x150.jpg
+image_thumbnail: /2008/02/kheer_temp1_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

@@ -3,6 +3,8 @@ permalink: /2008/06/16/comic-cooking-with-brinjals/
 layout: post
 title: Comic Cooking with Brinjals
 image: /2008/06/brinjal_cooking_color9.jpg
+image_230x150: /2008/06/brinjal_cooking_color9_230x150.jpg
+image_thumbnail: /2008/06/brinjal_cooking_color9_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

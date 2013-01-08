@@ -3,6 +3,8 @@ permalink: /2008/01/28/moong-dal-chaat/
 layout: post
 title: Moong dal chaat
 image: /2008/01/moong_ingredients.jpg
+image_230x150: /2008/01/moong_ingredients_230x150.jpg
+image_thumbnail: /2008/01/moong_ingredients_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 

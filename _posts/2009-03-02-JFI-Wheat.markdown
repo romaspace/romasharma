@@ -3,6 +3,8 @@ permalink: /2009/03/02/jfi-wheat/
 layout: post
 title: JFI - Wheat
 image: /2009/03/wheat_image_bordered.jpg
+image_230x150: /2009/03/wheat_image_bordered_230x150.jpg
+image_thumbnail: /2009/03/wheat_image_bordered_200x200.jpg
 published: true
 author: Roma Sharma
 categories: 
